@@ -33,6 +33,12 @@ Setiap kalimat dalam paragraf dimulai dengan Subjek, diikuti Predikat, lalu Obje
 - *"Tim pengembang menyambut baik kabar tersebut."*
 - *"Manajer proyek segera menyusun linimasa kerja."*
 
+### D. Kecanduan Tanda Pisah (Em-Dash Addiction `—`)
+AI modern yang mencoba terdengar puitis atau dramatis sering kali mengotori setiap paragraf dengan tanda pisah (`—`):
+- *Pola Sakit AI*: "Malam itu hening—tidak ada suara angin—hanya detak jam yang berputar—menandakan waktu telah habis."
+- *Dampak*: Terasa sangat artifisial, berlagak sastrawi, dan merusak tata bahasa Indonesia baku.
+- *Solusi*: Pecah menjadi kalimat-kalimat terpisah dengan tanda titik atau gunakan tanda koma wajar. Jangan gunakan em-dash lebih dari 1 kali dalam 1000 kata. Pada skripsi/karya formal, hilangkan 100%.
+
 ---
 
 ## 2. Teknik Dekonstruksi Struktur

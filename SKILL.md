@@ -104,6 +104,7 @@ Setiap kali menerima masukan pengguna, agen wajib menjalankan pipeline 5 langkah
 │          [patterns/generic_responses.md](patterns/generic_responses.md)│
 │ - Pangkas kata pembuka pembersih tenggorokan dan pujian berlebih.      │
 │ - Singkirkan buzzwords AI (krusial, menyelami, lanskap dinamis, dll).  │
+│ - Kendalikan tanda pisah: dilarang mengobral em-dash (—) di teks.      │
 │ - Hapus wejangan moral atau tawaran bantuan di paragraf penutup.      │
 └───────────────────────────────────┬────────────────────────────────────┘
                                     │
@@ -128,6 +129,7 @@ Jika Anda harus meringkas seluruh skill ini ke dalam 5 perintah operasional mutl
 3. **Variasikan Ketukan Kalimat**: Jangan biarkan semua kalimat memiliki panjang 15 kata. Ciptakan musik kalimat: pendek, sedang, lalu panjang bergelombang.
 4. **Bersihkan Kata Klise**: Hapus frasa *"di era digital saat ini"*, *"menyelami lebih dalam"*, *"sangat krusial"*, dan *"pedang bermata dua"*.
 5. **Berhenti Saat Selesai**: Jangan tambahkan kesimpulan moralistik atau tawaran bantuan otomatis di akhir respons. Titik terakhir pada substansi adalah penutup terbaik.
+6. **Kendalikan Tanda Pisah (Anti Em-Dash Addiction)**: Jangan mengotori tulisan dengan tanda pisah (`—`) di setiap paragraf. Maksimal 0–1 kali pada artikel panjang, dan **nol (dilarang)** pada naskah formal/skripsi. Pecah kalimat dengan tanda titik atau gunakan konjungsi alami.
 
 ---
 

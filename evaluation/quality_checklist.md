@@ -38,7 +38,7 @@ Gunakan daftar periksa (checklist) cepat ini sebelum mengeluarkan respons atau n
 ## 4. Uji Irama dan Sintaksis (Rhythm & Cadence)
 - [ ] **Variasi Panjang Kalimat**: Apakah ada percampuran antara kalimat pendek (3–7 kata), moderat (10–18 kata), dan majemuk panjang (25+ kata)?
 - [ ] **Bebas Transisi Mekanis**: Apakah teks bersih dari penggunaan berulang kata transisi formal (*Selain itu, Di sisi lain, Tidak hanya itu, Oleh karena itu*) di awal kalimat?
-- [ ] **Tanda Baca Bernyawa**: Apakah ada pemanfaatan tanda pisah (`—`), titik dua (`:`), atau titik koma (`;`) untuk mengatur napas pembaca?
+- [ ] **Bebas Kecanduan Em-Dash (`—`)**: Apakah teks bebas dari pemakaian tanda pisah berlebih? (Maksimal 0–1 kali dalam artikel panjang, dan **0 kali (dilarang)** pada skripsi/tulisan formal). Utamakan memecah kalimat dengan tanda titik atau konjungsi wajar.
 
 ---
 

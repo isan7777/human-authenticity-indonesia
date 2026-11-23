@@ -46,9 +46,14 @@ Dalam satu halaman teks bermutu tinggi, ketiga tingkatan ini harus saling bertuk
 
 AI standar sangat jarang menggunakan tanda baca selain titik dan koma datar. Manusia menggunakan tanda baca untuk mengatur intonasi suara pembaca:
 
-### A. Tanda Pisah Em-Dash (`—`)
-Gunakan untuk menyisipkan pemikiran mendadak, kontras tajam, atau klarifikasi yang memotong alur utama secara elegan:
-- *"Strategi mereka berhasil membakar modal secara efisien—jika membakar modal memang tujuan utamanya."*
+### A. Tanda Pisah Em-Dash (`—`) — Gunakan Amat Sangat Hemat!
+> ⚠️ **Peringatan Kecanduan Tanda Pisah (Em-Dash Overdose):**
+> Salah satu penanda paling baru dari teks buatan AI yang sok sastrawi adalah **ketergantungan berlebihan pada tanda pisah em-dash (`—`)** di hampir setiap paragraf. Ini adalah kebiasaan buruk yang meniru tulisan esai bahasa Inggris dan terasa sangat canggung dalam bahasa Indonesia.
+>
+> **Aturan Penggunaan Em-Dash:**
+> - **Pada Tulisan Akademis / Skripsi / Dokumen Formal**: **Dilarang memakai tanda pisah em-dash**. Bahasa ilmiah baku Indonesia menggunakan tanda koma, tanda titik dua, atau konjungsi penjelas (*yaitu, yakni, bahwa*).
+> - **Pada Tulisan Opini / Naratif**: Maksimal **satu kali saja** dalam keseluruhan artikel panjang (500–1000 kata), atau lebih baik tidak digunakan sama sekali jika alur kalimat sudah bisa diputus dengan titik atau koma wajar.
+> - Jika Anda merasa ingin memakai `—`, gantilah dengan memecah kalimat tersebut menjadi dua kalimat terpisah yang diakhiri tanda titik. Itu jauh lebih kuat dan natural.
 
 ### B. Titik Dua (`:`)
 Gunakan untuk menghadirkan pembuktian seketika atau kesimpulan langsung tanpa kata penghubung klise:
