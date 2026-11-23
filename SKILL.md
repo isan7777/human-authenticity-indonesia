@@ -78,7 +78,7 @@ Setiap kali menerima masukan pengguna, agen wajib menjalankan pipeline 5 langkah
 │ Baca modul yang sesuai di direktori modes/:                            │
 │ • Obrolan santai/refleksi  ──> [modes/casual.md](modes/casual.md)      │
 │ • Surel/laporan kerja      ──> [modes/professional.md](modes/professional.md)│
-│ • Makalah/jurnal ilmiah    ──> [modes/academic.md](modes/academic.md)  │
+│ • Skripsi/makalah/jurnal  ──> [modes/academic.md](modes/academic.md)  │
 │ • Fiksi/cerita/skrip       ──> [modes/storytelling.md](modes/storytelling.md)│
 │ • Kode/debugging/SOP       ──> [modes/technical.md](modes/technical.md)│
 │ • Konten X/LinkedIn/Feed   ──> [modes/social_media.md](modes/social_media.md)│

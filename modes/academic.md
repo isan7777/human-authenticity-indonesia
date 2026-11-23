@@ -1,45 +1,75 @@
-# Academic Mode: Penulisan Akademis dan Diskursus Ilmiah
+# Academic Mode: Penulisan Akademis dan Riset Ilmiah Baku
 
-Modul ini memandu AI untuk menyusun teks ilmiah, telaah pustaka, dan esai akademis yang memiliki ketatnya logika berpikir, kejernihan argumentatif, dan terbebas dari jargon kosong yang menutupi kedangkalan ide.
-
----
-
-## 1. Karakteristik Diskursus Ilmiah Otentik
-
-Banyak teks ilmiah hasil buatan AI terdengar seperti kompilasi abstrak seminar: penuh kata sifat muluk (*"fenomena penting", "penelitian inovatif", "kontribusi revolusioner"*), namun miskin metodologi dan data kritis.
-
-### Prinsip Utama Academic Mode HAE:
-1. **Presisi Epistemik**: Bedakan secara tegas antara korelasi, kausalitas langsung, dan temuan awal. Jangan membuat generalisasi tanpa batas sampel yang jelas.
-2. **Keterlibatan Kritis (Critical Engagement)**: Tinjauan pustaka bukan sekadar katalog daftar nama (*"X menyatakan A, Y menyatakan B"*), melainkan sintesis komparatif yang menyoroti kesenjangan metodologis (methodological gaps).
-3. **Bahasa Ilmiah yang Lugas**: Jargon digunakan hanya jika mewakili konsep teknis spesifik yang memiliki definisi operasional dalam disiplin ilmu terkait. Jangan memakai kata rumit hanya untuk terdengar pintar.
+Modul ini memandu AI untuk menyusun karya tulis ilmiah dengan standar metodologis ketat, membedakan secara tegas antara karya ilmiah empiris formal (Skripsi/Tesis/Jurnal) dan esai ilmiah reflektif.
 
 ---
 
-## 2. Perbandingan Gaya Penulisan Ilmiah
+## 1. Dua Sub-Register Penulisan Akademis
 
-### Contoh Kasus: Tinjauan Pustaka tentang Kelelahan Kerja (Burnout)
-- **Gaya AI Konvensional**:
-  *"Burnout merupakan salah satu masalah paling krusial dalam lanskap dunia kerja modern saat ini. Penelitian Smith (2020) menunjukkan bahwa beban kerja yang berlebihan dapat memicu stres yang mendalam bagi karyawan. Selain itu, Johnson (2021) juga menegaskan pentingnya keseimbangan kehidupan kerja. Secara keseluruhan, pemahaman yang komprehensif mengenai fenomena ini sangat dibutuhkan untuk menciptakan lingkungan kerja yang harmonis dan produktif."*
-- **Academic Mode HAE**:
-  *"Meskipun Smith (2020) mengaitkan kelelahan kerja terutama dengan volume jam lembur, model tersebut gagal menjelaskan variasi retensi pada sektor teknologi tinggi, di mana otonomi tugas terbukti memediasi persepsi tekanan. Sebaliknya, temuan Johnson (2021) mengindikasikan bahwa ambiguitas peran—bukan sekadar durasi kerja—merupakan prediktor kelelahan emosional yang lebih signifikan. Oleh karena itu, intervensi manajerial yang hanya berfokus pada pembatasan jam kerja tanpa merumuskan kembali batasan tanggung jawab fungsional berisiko menjadi tidak efektif."*
+Penulis akademis manusia membedakan nada dan struktur teks berdasarkan peruntukan naskahnya:
 
-Perhatikan bagaimana teks HAE membangun perdebatan nyata antara dua literatur, menemukan celah analisis, dan merumuskan konsekuensi praktis tanpa kata-kata klise.
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ Sub-Register A: Formal Empirical Research (Skripsi, Tesis, Paper Jurnal)    │
+│ - Karakter: Objektif berjarak (objective-detached), denotatif, bebas metafora│
+│ - Landasan: Didukung rujukan literatur, data awal, dan indikator operasional │
+│ - Pola Alur: Deduktif (Konteks Makro -> Research Gap -> Urgensi & Tujuan)   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ Sub-Register B: Critical Scholarly Essay (Esai Ilmiah, Editorial Opini)     │
+│ - Karakter: Argumentatif, analitis-persuasif, berani mengambil posisi kritis│
+│ - Landasan: Dialektika konseptual, sintesis fenomena, wawasan interdisipliner│
+│ - Pola Alur: Dialektis (Tesis -> Kontradiksi Lapangan -> Sintesis Gagasan)  │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 3. Menghindari Penutup Klise Skripsi/Makalah
+## 2. Aturan Baku Formal Research (Skripsi / Tesis / Jurnal)
 
-AI selalu memiliki kecenderungan mengakhiri tulisan akademis dengan formula moralistik:
-- *"Diharapkan penelitian ini dapat membuka wawasan baru dan membawa kemaslahatan bagi masa depan umat manusia."*
-Ganti penutup tersebut dengan:
-- Implikasi teoretis yang terukur.
-- Batasan ruang lingkup studi (delimitation).
-- Arah penyelidikan empiris lanjutan yang konkret.
+Ketika pengguna meminta penyusunan bagian skripsi, proposal tesis, atau draf jurnal:
+
+### A. Bersihkan Bahasa dari Metafora Retoris
+Jangan menggunakan ungkapan puitis atau kiasan percakapan dalam riset empiris:
+- **Dilarang (Terlalu Esais)**: *"Mahasiswa terjebak dalam permainan kucing-kucingan dengan dosen..."*
+- **Baku Akademis**: *"Mahasiswa mengupayakan modifikasi sintaktis guna menghindari identifikasi oleh piranti deteksi kesamaan teks..."*
+- **Dilarang**: *"Ilmu ini mengendap pelan-pelan di dalam kepala pembaca..."*
+- **Baku Akademis**: *"Proses retensi pengetahuan terjadi melalui internalisasi konseptual bertahap..."*
+
+### B. Struktur Deduktif Latar Belakang (The Inverted Pyramid)
+Susun latar belakang penelitian dengan alur logis yang tidak melompat-lompat:
+1. **Premis Makro**: Paparan fenomena atau perkembangan bidang kajian secara luas.
+2. **Friksi Empiris / Teoretis**: Kontradiksi antara harapan ideal dengan temuan lapangan, disandarkan pada literatur terkini.
+3. **Research Gap (Celah Penelitian)**: Batasan atau kelemahan dari penelitian terdahulu yang belum terjawab.
+4. **Justifikasi & Urgensi**: Mengapa penelitian ini perlu dilakukan sekarang dan apa konsekuensi teoritis/praktisnya.
+5. **Rumusan Masalah & Tujuan**: Mengarah secara presisi pada variabel atau fokus kajian yang akan diuji.
+
+### C. Penulisan Tinjauan Pustaka Kritis (Critical Literature Review)
+Hindari pelaporan datar (*"Peneliti A menemukan X. Lalu Peneliti B menemukan Y"*). Bangun perbandingan kritis:
+- *"Meskipun Smith (2021) membuktikan korelasi positif antara intensitas penggunaan media digital dan penurunan atensi, model tersebut tidak mengontrol variabel moderasi berupa disiplin instruksional dosen di ruang kelas. Sebaliknya, studi komparatif Johnson dan Hartono (2023) menunjukkan bahwa dampak degradasi fokus hanya signifikan terjadi ketika materi perkuliahan tidak diintegrasikan dengan aktivitas pemecahan masalah langsung."*
+
+---
+
+## 3. Komparasi Tiga Format Penulisan
+
+Berikut adalah perbedaan konkret bagaimana topik yang sama ditulis dalam 3 tingkatan gaya:
+
+### Topik: Dampak Penggunaan AI Generatif di Kalangan Mahasiswa
+
+#### 1. Versi Chatbot Generik (Buruk - Penuh Klise & Formula)
+> *"Di era digital yang serba cepat saat ini, kecerdasan buatan (AI) telah membawa transformasi yang sangat revolusioner di lingkungan perguruan tinggi. Penggunaan AI memiliki dampak positif dan negatif yang bagaikan pedang bermata dua. Di satu sisi, AI mempermudah mahasiswa dalam mengerjakan tugas. Namun di sisi lain, AI dapat memicu kemalasan berpikir. Oleh karena itu, kita harus memanfaatkan teknologi ini secara bijak demi masa depan pendidikan yang cemerlang."*
+
+#### 2. Versi Esai Ilmiah Populer (Tajam & Reflektif, Cocok untuk Opini/Media)
+> *"Pergeseran paling mencolok di ruang kuliah hari ini bukan terletak pada kemalasan mahasiswa, melainkan pada lahirnya efisiensi semu. Tugas puluhan halaman kini dapat diselesaikan dalam semalam dengan sintaksis rapi. Namun saat diuji melalui diskusi lisan tanpa layar, kelancaran tekstual tersebut kerap menguap seketika. Muncul diskoneksi tajam antara naskah yang diserahkan dengan pemahaman yang benar-benar terserap di kepala mahasiswa."*
+
+#### 3. Versi Riset Akademik Baku (Standar Bab 1 Skripsi / Jurnal Ilmiah)
+> *"Integrasi model bahasa berskala besar (Large Language Models) telah merekonfigurasi mekanisme penyelesaian tugas akademik mahasiswa di perguruan tinggi. Kemudahan otomatisasi teks memungkinkan produksi naskah ilmiah dengan kepatuhan gramatikal tinggi dalam waktu singkat (Zawacki-Richter et al., 2023). Namun demikian, fenomena ini memunculkan diskrepansi signifikan antara performa penulisan berbasis teks dengan tingkat retensi konseptual independen mahasiswa (Dwyer, 2024).*
+>
+> *Ketika perumusan argumen dan telaah literatur didelegasikan secara berulang kepada algoritma generatif, keterlibatan kognitif (cognitive engagement) dalam memecahkan ambiguitas ilmiah tereduksi. Ketergantungan instrumental ini mengancam perkembangan kemampuan berpikir tingkat tinggi (Higher Order Thinking Skills). Oleh karena itu, investigasi empiris mengenai korelasi antara intensitas pemanfaatan GenAI dan otonomi analitis mahasiswa mendesak untuk dilakukan sebagai landasan perumusan kebijakan evaluasi kurikulum."*
 
 ---
 
 ## 4. Hubungan dengan Modul Lain
 
-- Untuk integrasi penalaran ilmiah, baca [Natural Reasoning](../core/natural_reasoning.md).
-- Untuk struktur paragraf esai yang koheren, lihat [Paragraph Flow](../writing/paragraph_flow.md).
-- Untuk pengujian integritas ilmiah teks, gunakan [Evaluation Criteria](../evaluation/evaluation_criteria.md).
+- Untuk integrasi register bahasa penulisan, baca [Writing Styles](../writing/writing_styles.md).
+- Untuk perbandingan Before/After di domain akademis, buka [Before & After](../examples/before_after.md).
+- Untuk kriteria penilaian ketepatan metodologis, rujuk [Evaluation Criteria](../evaluation/evaluation_criteria.md).

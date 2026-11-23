@@ -92,10 +92,10 @@ Dokumen ini membedah perbandingan langsung antara output chatbot AI konvensional
 
 ---
 
-## Kasus 3: Penulisan Akademis / Analisis Konsep (Academic Essay)
+## Kasus 3: Penulisan Akademis / Analisis Konsep (Academic Writing)
 
 ### Input Pengguna:
-> *"Tuliskan paragraf analisis kritis tentang dampak kecerdasan buatan terhadap integritas akademik di perguruan tinggi."*
+> *"Tuliskan paragraf analisis tentang dampak kecerdasan buatan terhadap integritas akademik di perguruan tinggi."*
 
 ### Output Chatbot Generik:
 > *"Kecerdasan buatan (AI) telah membawa transformasi yang sangat revolusioner dalam berbagai sektor kehidupan manusia, tidak terkecuali dalam dunia pendidikan tinggi. Di era digital saat ini, kehadiran alat bantu seperti ChatGPT menghadirkan peluang sekaligus tantangan yang sangat krusial bagi integritas akademik. Di satu sisi, AI dapat membantu mahasiswa dalam mempercepat proses penelitian. Namun di sisi lain, penggunaan AI yang tidak bijak dapat memicu maraknya plagiarisme dan penurunan kemampuan berpikir kritis mahasiswa. Oleh karena itu, perguruan tinggi harus merumuskan kebijakan yang holistik dan komprehensif untuk memastikan bahwa teknologi ini dimanfaatkan secara etis demi masa depan pendidikan yang cemerlang."*
@@ -105,14 +105,21 @@ Dokumen ini membedah perbandingan langsung antara output chatbot AI konvensional
 - Posisi pasif mengambang ("di satu sisi... namun di sisi lain...").
 - Tidak ada data metodologis, argumen epistemik, atau wawasan institusional konkret.
 
-### Output Human Authenticity Engine:
+### Output Human Authenticity Engine (Disesuaikan menurut Sub-Register):
+
+#### Opsi A: Versi Riset Akademik Baku (Standar Bab 1 Skripsi / Jurnal Ilmiah)
+> *Integrasi model bahasa berskala besar (Large Language Models) telah merekonfigurasi mekanisme penyelesaian tugas akademik mahasiswa di perguruan tinggi. Kemudahan otomatisasi teks memungkinkan produksi naskah ilmiah dengan kepatuhan gramatikal tinggi dalam waktu singkat (Zawacki-Richter et al., 2023). Namun demikian, fenomena ini memunculkan diskrepansi signifikan antara performa penulisan berbasis teks dengan tingkat retensi konseptual independen mahasiswa (Dwyer, 2024).*
+>
+> *Ketika perumusan argumen dan telaah literatur didelegasikan secara berulang kepada algoritma generatif, keterlibatan kognitif (cognitive engagement) dalam memecahkan ambiguitas ilmiah tereduksi. Ketergantungan instrumental ini mengancam perkembangan kemampuan berpikir tingkat tinggi (Higher Order Thinking Skills). Oleh karena itu, investigasi empiris mengenai korelasi antara intensitas pemanfaatan GenAI dan otonomi analitis mahasiswa mendesak untuk dilakukan sebagai landasan perumusan kebijakan evaluasi kurikulum.*
+
+#### Opsi B: Versi Esai Ilmiah Reflektif (Opini Cendekia / Kritik Pendidikan)
 > *Krisis integritas akademik yang dipicu oleh model bahasa generatif sebenarnya bukan berpangkal pada kemudahan menyalin teks, melainkan pada runtuhnya fungsi esai sebagai instrumen evaluasi kognitif. Selama beberapa dekade, perguruan tinggi mengasumsikan bahwa kemampuan menyusun sintaksis argumen yang rapi merupakan representasi linier dari kedalaman pemahaman seorang sarjana. Kehadiran teks sintetis menghancurkan asumsi tersebut: struktur esai yang koheren kini dapat diproduksi secara instan tanpa melibatkan proses pergulatan mental mahasiswa dengan literatur primer.*
 > 
 > *Upaya institusi pendidikan yang merespons fenomena ini semata-mata dengan memasang perangkat lunak pendeteksi AI mencerminkan kepanikan metodologis yang keliru. Detektor probabilitas tidak hanya rentan menghasilkan temuan positif palsu pada penulis non-penutur asli, tetapi juga gagal menyentuh akar masalah evaluasi. Perguruan tinggi tidak lagi dapat mempertahankan penilaian berbasis draf akhir; mereka dipaksa beralih ke ujian lisan interaktif, log repositori penelitian terbuka, atau penilaian berbasis pertahanan argumen di ruang kelas.*
 
 **Keunggulan HAE:**
-- Mengidentifikasi akar masalah filosofis (esai sebagai proksi kognitif).
-- Mengkritik pendekatan detektor secara ilmiah dengan argumen validitas (false positive pada non-native speakers).
+- Membedakan secara presisi antara bahasa riset baku (*objective-detached*) dan esai reflektif (*critical-argumentative*).
+- Pada versi riset baku: terminologi terukur (*diskrepansi performa, retensi konseptual, cognitive engagement, HOTS*) dengan alur deduktif jelas.
 - Diksi presisi tinggi tanpa satu pun buzzword hampa.
 
 ---

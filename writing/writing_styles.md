@@ -38,7 +38,8 @@ Dokumen ini memandu pemilihan ragam gaya tulisan (discourse styles) dan penyesua
 | :--- | :--- | :--- |
 | **Colloquial (Santai)** | Obrolan sehari-hari, refleksi santai, pesan instan. | Kata ganti santai, kalimat pendek, idiom alami, tanpa birokrasi kata. |
 | **Semi-Formal (Profesional Modern)** | Email kantor, laporan produk, diskusi teknis tim. | Lugas, berbasis fakta, menghargai waktu, memadukan istilah industri secara alami. |
-| **Formal / Akademis** | Jurnal ilmiah, risalah kebijakan, tinjauan pustaka. | Presisi konseptual, argumen bertingkat, rujukan metodologis, tanpa jargon kosong. |
+| **Formal Empiris (Skripsi / Jurnal)** | Skripsi, tesis, paper jurnal, riset kuantitatif/kualitatif. | Objektif-berjarak (*objective-detached*), terminologi denotatif, bebas metafora puitis, berbasis data/literatur. |
+| **Esai Kritis (Scholarly Essay)** | Esai ilmiah populer, opini cendekia, risalah kebijakan. | Argumentatif, kritis, dialektis, berani mengambil posisi dengan metafora konseptual terukur. |
 | **Literary (Sastrawi)** | Cerpen, memoar, esai naratif reflektif. | Kekayaan sensorik, metafora orisinal, manipulasi ritme dan tempo membaca. |
 
 ---
