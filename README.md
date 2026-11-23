@@ -17,47 +17,52 @@ Sebagian besar model bahasa besar (LLM) dilatih menggunakan optimasi rata-rata p
 
 ---
 
-## 📁 Struktur Direktori
+## 📁 Struktur Direktori Terpisah per Mode
 
-Proyek ini dibangun secara terstruktur dan modular dengan pembagian tanggung jawab yang jernih:
+Proyek ini dibangun secara terstruktur dengan memisahkan setiap domain penulisan ke dalam folder mandiri yang lengkap dengan panduan, contoh, dan checklist tersendiri:
 
 ```text
 human-authenticity/
-├── SKILL.md                          # Entry point resmi skill (YAML Frontmatter & Pipeline)
+├── SKILL.md                          # Entry point resmi general skill
 ├── README.md                         # Dokumentasi instalasi, konfigurasi, & arsitektur
+├── academic/                         # MODUL KHUSUS AKADEMIK & SKRIPSI
+│   ├── SKILL.md                      # Entry point mandiri (human-authenticity-academic)
+│   ├── formal_research_guide.md      # Panduan Bab 1 Skripsi & Jurnal Empiris Baku
+│   ├── scholarly_essay_guide.md      # Panduan Esai Cendekia & Risalah Kebijakan
+│   ├── anti_translationese.md        # Kamus De-kalkifikasi Bahasa Ilmiah Indonesia
+│   ├── academic_examples.md          # Contoh naskah lolos Turnitin / GPTZero
+│   └── academic_checklist.md         # Lembar periksa mandiri sebelum bimbingan
+├── casual/                           # MODUL KHUSUS OBROLAN SANTAI
+│   ├── SKILL.md                      # Entry point obrolan santai
+│   ├── conversational_rules.md       # Aturan dialog dan partikel wacana alami
+│   ├── casual_examples.md            # Contoh dialog sehari-hari
+│   └── casual_checklist.md           # Lembar periksa percakapan santai
+├── professional/                     # MODUL KHUSUS KOMUNIKASI KERJA
+│   ├── SKILL.md                      # Entry point komunikasi kerja
+│   ├── workplace_communication.md    # Panduan surel & pelaporan kendala proyek
+│   ├── professional_examples.md      # Contoh surel eksekutif & penolakan sopan
+│   └── professional_checklist.md     # Lembar periksa pesan profesional
+├── storytelling/                     # MODUL KHUSUS FIKSI & NARASI
+│   ├── SKILL.md                      # Entry point penulisan fiksi
+│   ├── narrative_rules.md            # Show don't tell, dialog realistis, & pacing
+│   ├── storytelling_examples.md      # Contoh adegan fiksi kaya sensorik
+│   └── storytelling_checklist.md     # Lembar periksa naskah naratif
+├── technical/                        # MODUL KHUSUS DOKUMENTASI & DEBUGGING
+│   ├── SKILL.md                      # Entry point instruksi teknis
+│   ├── technical_rules.md            # Protokol 4 tahap (Root Cause -> Fix -> Verify)
+│   ├── technical_examples.md         # Contoh solusi incident response & database
+│   └── technical_checklist.md        # Lembar periksa respon teknis
+├── social-media/                     # MODUL KHUSUS KONTEN SOSIAL
+│   ├── SKILL.md                      # Entry point media sosial
+│   ├── social_media_rules.md         # Kaidah hook organik & anti kebun emoji
+│   ├── social_media_examples.md      # Draf unggahan X dan LinkedIn berwibawa
+│   └── social_media_checklist.md     # Lembar periksa konten sosial
 ├── core/                             # Modul Inti Filosofi & Karakter
-│   ├── identity.md                   # Karakter dasar komunikator intelektual matang
-│   ├── communication_principles.md   # Sepuluh prinsip komunikasi alami (Ten Tenets)
-│   ├── natural_reasoning.md          # Penalaran dialektis non-linear & analogi segar
-│   └── authenticity.md               # Hakikat keaslian vs manipulasi detektor AI
 ├── behavior/                         # Modul Perilaku Percakapan
-│   ├── conversational_behavior.md    # Ritme turn-taking & eliminasi nada Customer Service
-│   ├── response_adaptation.md        # Kalibrasi panjang (Micro, Compact, Deep-Dive)
-│   ├── contextual_awareness.md       # Membaca niat implisit & memori kontinuitas
-│   └── emotional_intelligence.md     # Empati membumi & kelakar halus situasional
 ├── writing/                          # Modul Teknik Penulisan Prosa
-│   ├── natural_writing.md            # Menghapus kilap sintetis (show, don't tell)
-│   ├── sentence_variation.md         # Variasi panjang kalimat & tanda baca bernyawa
-│   ├── paragraph_flow.md             # Perkembangan tematik & teknik akordeon
-│   ├── vocabulary_selection.md       # Kurasi kata & blacklist buzzwords AI
-│   └── writing_styles.md             # Spektrum register (santai, formal, sastra)
-├── modes/                            # Modul Adaptasi Kontekstual per Mode
-│   ├── casual.md                     # Obrolan santai sehari-hari yang luwes
-│   ├── professional.md               # Komunikasi kerja modern, lugas, solutif
-│   ├── academic.md                   # Diskursus ilmiah & tinjauan metodologis kritis
-│   ├── storytelling.md               # Narasi fiksi hidup & dialog berkarakter
-│   ├── technical.md                  # Dokumentasi & debugging zero-fluff
-│   └── social_media.md               # Konten media sosial bebas emoji salad
 ├── patterns/                         # Modul Anti-Pola & Diagnosis Bahasa
-│   ├── ai_cliches.md                 # Katalog pembuka, kiasan, & penutup klise AI
-│   ├── repetitive_structures.md      # Pembongkaran triad berbutir & simetri visual
-│   ├── unnatural_transitions.md      # Eliminasi kata transisi mekanis
-│   └── generic_responses.md          # Uji tukar (Swap Test) & uji pengurangan
-├── examples/                         # Modul Contoh & Studi Komparasi
-│   ├── conversation_examples.md      # Dialog nyata di berbagai situasi interaksi
-│   ├── writing_examples.md           # Draf karya tulis utuh lintas genre
-│   └── before_after.md               # Komparasi mendalam Chatbot Biasa vs HAE
-└── evaluation/                       # Modul Kerangka Evaluasi Kualitas
+├── examples/                         # Rujukan Umum & Komparasi Before/After
+└── evaluation/                       # Kerangka Evaluasi Mutu 6 Dimensi
     ├── quality_checklist.md          # Daftar periksa pra-rilis respon
     ├── naturalness_test.md           # Protokol uji baca nyaring & uji warung kopi
     └── evaluation_criteria.md        # Rubrik evaluasi 6 dimensi standar mutu
