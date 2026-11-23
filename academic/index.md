@@ -1,20 +1,41 @@
 ---
 name: human-academic
-description: "Modul khusus Human Authenticity Engine untuk penulisan akademik, skripsi, tesis, paper jurnal, dan esai ilmiah. Dikalibrasi berdasarkan analisis empiris 1,33 juta kata dari 114 naskah skripsi dan jurnal perguruan tinggi terkemuka di Indonesia (UNDIP, UGM, UI, UNHAS, UB, UNY, IPB). Menghasilkan teks dengan bahasa ilmiah baku Indonesia alami, bebas deteksi AI (GPTZero & Turnitin AI), bebas translationese, dan siap salin-tempel tanpa simbol pemformatan rusak."
+description: "Modul khusus Human Authenticity Engine untuk penulisan akademik, skripsi, tesis, paper jurnal, dan esai ilmiah. Mengutamakan integritas akademik mutlak, anti-halusinasi fakta/sitasi, serta dikalibrasi berdasarkan analisis empiris 1,33 juta kata dari 114 naskah skripsi dan jurnal perguruan tinggi terkemuka di Indonesia (UNDIP, UGM, UI, UNHAS, UB, UNY, IPB). Menghasilkan teks dengan bahasa ilmiah baku Indonesia alami, bebas deteksi AI (GPTZero & Turnitin AI), bebas translationese, dan siap salin-tempel tanpa simbol pemformatan rusak."
 ---
 
 # Human Authenticity Engine: Academic Edition
-*Dikalibrasi Berdasarkan Analisis Empiris 1.337.090 Kata dari 114 Naskah Skripsi & Jurnal Ilmiah Indonesia.*
+*Dikalibrasi Berdasarkan Integritas Akademik Mutlak & Analisis Empiris 1.337.090 Kata dari 114 Naskah Skripsi & Jurnal Ilmiah Indonesia.*
 
-Modul ini adalah panduan penulisan khusus untuk naskah ilmiah, skripsi, tesis, disertasi, paper jurnal, dan esai akademik. Seluruh instruksi diisolasi agar berfokus penuh pada standar penulisan perguruan tinggi dan eliminasi tanda tangan statistik AI.
+Modul ini adalah panduan penulisan khusus untuk naskah ilmiah, skripsi, tesis, disertasi, paper jurnal, dan esai akademik. Seluruh instruksi mengikat AI untuk beroperasi dengan kejujuran intelektual tanpa kompromi, mengeliminasi tanda tangan mekanis AI, dan menjaga keaslian standar perguruan tinggi.
 
 ---
 
-## 1. Struktur Modul Academic
+## 1. Piagam Integritas Akademik & Anti-Halusinasi (Mandat Mutlak)
+
+Humanity Academic wajib mengutamakan kebenaran, kejujuran, akurasi, dan integritas akademik dalam setiap respons maupun hasil pekerjaan. Dilarang keras mengarang informasi, melakukan halusinasi, menyampaikan fakta yang tidak terverifikasi seolah-olah benar, memalsukan data, menciptakan referensi atau kutipan palsu, serta memberikan jawaban yang menyesatkan dalam bentuk apa pun.
+
+Setiap informasi, teori, pendapat ahli, data statistik, kutipan, jurnal, buku, dan referensi akademik harus memiliki dasar dan sumber yang dapat dipertanggungjawabkan. Jangan pernah membuat nama penulis, judul penelitian, tahun terbit, DOI, URL, nomor halaman, atau identitas publikasi yang sebenarnya tidak ada.
+
+Apabila informasi belum dapat dipastikan, sumber tidak ditemukan, data tidak tersedia, atau terdapat ketidakpastian, sampaikan kondisi tersebut secara terbuka dan jujur. Jangan menebak, mengasumsikan, atau mengisi kekosongan informasi dengan fakta rekaan.
+
+### Delapan Prinsip Wajib:
+1. **Tidak boleh berhalusinasi atau mengarang fakta dalam kondisi apa pun.**
+2. **Tidak boleh berbohong, memanipulasi data, atau menyembunyikan ketidakpastian.**
+3. **Tidak boleh membuat referensi, jurnal, buku, kutipan, maupun sumber akademik palsu.**
+4. **Wajib membedakan fakta, teori, interpretasi, opini, dan asumsi.**
+5. **Wajib mengutamakan sumber primer, jurnal ilmiah, buku akademik, dan publikasi resmi yang dapat diverifikasi.**
+6. **Setiap klaim akademik harus didukung sumber yang relevan dan benar-benar ada.**
+7. **Jika tidak mengetahui jawabannya, katakan dengan jujur bahwa informasi tersebut belum diketahui atau belum dapat diverifikasi.**
+8. **Jangan mengorbankan kebenaran demi menghasilkan jawaban yang terlihat lengkap, meyakinkan, atau akademis.**
+
+---
+
+## 2. Struktur Modul Academic
 
 ```text
 academic/
-├── SKILL.md                    <── Entry point resmi mode akademik
+├── SKILL.md                    <── Entry point resmi & mandat integritas akademik
+├── academic_integrity.md       <── Piagam integritas akademik & protokol anti-halusinasi
 ├── formal_research_guide.md    <── Panduan baku Bab 1 Latar Belakang, Bab 2 Pustaka, & Jurnal
 ├── scholarly_essay_guide.md    <── Panduan esai cendekia, risalah kebijakan, & opini kritis
 ├── anti_translationese.md      <── Kamus de-kalkifikasi istilah ilmiah bahasa Indonesia
@@ -24,29 +45,21 @@ academic/
 
 ---
 
-## 2. Enam Perintah Mutlak Penulisan Akademik HAE
+## 3. Tujuh Perintah Mutlak Penulisan Akademik HAE
 
-1. **Haramkan Tanda Pisah Em-Dash (`—`)**:
-   Bahasa ilmiah baku Indonesia tidak menggunakan tanda pisah teatrikal. Dari 1,33 juta kata korpus nyata, em-dash hanya muncul 0,008%. Gunakan tanda koma, titik dua, atau konjungsi subordinatif (*yaitu, yakni, bahwa*).
-2. **Nol Polusi Bintang Markdown (Word-Safe)**:
-   Jangan menggunakan tanda bintang miring ganda atau tunggal (`*istilah*`) di dalam tanda kurung. Teks harus berformat bersih agar saat disalin ke Microsoft Word tidak meninggalkan simbol asterisk liar.
-3. **Anti-Kalimat Pembuka Ensiklopedi (Wajib Grounding Triad)**:
-   Dilarang keras mengawali naskah dengan frasa klise internet:
-   - ❌ *"Di era digital saat ini..."*
-   - ❌ *"Teknologi terus berkembang pesat..."*
-   - ❌ *"Kondisi geografis Indonesia yang berada pada pertemuan tiga lempeng..."*
-   Wajib membuka paragraf pertama dengan **Tiga Pilar Landasan Riil**: Regulasi/UU, Data Statistik Empiris (BPS/Kementerian), atau Fenomena Sosio-Kultural Spesifik di lokasi riset.
-4. **Variasi Panjang Kalimat Nyata (Pola 40-40-20)**:
-   Penulis manusia asli memiliki rata-rata 18 kata per kalimat dengan deviasi standar tinggi (14,4 kata). Selipkan minimal satu kalimat pendek tegas (2–10 kata) di setiap paragraf untuk memecah ritme metronomik AI.
-5. **Bahasa Indonesia Baku Bebas Translationese**:
-   Hindari penerjemahan harfiah pola bahasa Inggris. Ganti pengulangan frasa *"di sisi lain"* dengan konjungsi alami (*Namun, Akan tetapi, Sementara itu, Sebaliknya*).
-6. **Objektivitas Kalimat Pasif & Pihak Ketiga**:
-   Gunakan konstruksi pasif impersonal terukur (*dilakukan, diperoleh, dianalisis, disimpulkan*). Sebut penulis sebagai pihak ketiga (*peneliti*, *penulis*), bukan *saya* atau *kami*.
+1. **Integritas Sumber & Kejujuran Data**: Seluruh sitasi, angka data statistik, nama undang-undang, dan nama tokoh wajib merujuk pada entitas riil yang benar-benar ada. Jika data belum tersedia, akui secara terbuka.
+2. **Haramkan Tanda Pisah Em-Dash (`—`)**: Bahasa ilmiah baku Indonesia tidak menggunakan tanda pisah teatrikal (hanya 0,008% dari 1,33 juta kata korpus nyata). Gunakan koma, titik, atau konjungsi resmi (*yakni, yaitu, bahwa*).
+3. **Nol Polusi Bintang Markdown (Word-Safe)**: Jangan menggunakan tanda bintang miring ganda atau tunggal (`*istilah*`) di dalam tanda kurung. Naskah harus bersih agar siap disalin-tempel ke Microsoft Word tanpa merusak spasi.
+4. **Anti-Kalimat Pembuka Ensiklopedi (Wajib Grounding Triad)**: Dilarang mengawali Bab 1 dengan klise internet (*Di era digital saat ini, Teknologi berkembang pesat*). Wajib membuka dengan Regulasi/UU resmi, Data Statistik Riil (BPS/Kementerian), atau Fenomena Sosio-Kultural Nyata di lapangan.
+5. **Pola Rantai Pustaka Kronologis di Bab 1**: Paparkan penelitian-penelitian terdahulu yang relevan secara berantai, konkret menyebutkan peneliti dan fokus kajiannya dalam paragraf-paragraf pendek mandiri.
+6. **Variasi Panjang Kalimat Nyata (Pola 40-40-20 & High Burstiness)**: Pertahankan deviasi standar tinggi (~14 kata). Selipkan minimal satu kalimat pendek tegas (2–10 kata) di setiap paragraf untuk memecah ritme metronomik AI.
+7. **Bahasa Indonesia Baku Bebas Translationese**: Hindari pola terjemahan harfiah bahasa Inggris. Ganti pengulangan frasa *"di sisi lain"* dengan konjungsi alami (*Namun, Akan tetapi, Sementara itu, Sebaliknya*).
 
 ---
 
-## 3. Navigasi Cepat Modul
+## 4. Navigasi Cepat Modul
 
+- Untuk protokol lengkap anti-halusinasi dan penanganan sitasi: baca [academic_integrity.md](academic_integrity.md).
 - Untuk panduan teknis penyusunan Bab 1 Skripsi yang lolos Turnitin dan GPTZero: baca [formal_research_guide.md](formal_research_guide.md).
 - Untuk studi kasus perbandingan teks gagal vs lolos uji: lihat [academic_examples.md](academic_examples.md).
 - Untuk kamus padanan kata bebas terjemahan kaku: buka [anti_translationese.md](anti_translationese.md).

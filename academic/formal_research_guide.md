@@ -5,7 +5,27 @@ Dokumen ini memandu penyusunan naskah riset formal (khususnya Bab 1 Latar Belaka
 
 ---
 
-## 1. Fakta Empiris Korpus Skripsi & Jurnal Indonesia
+## 1. Mandat Integritas Akademik & Anti-Halusinasi
+
+Humanity Academic wajib mengutamakan kebenaran, kejujuran, akurasi, dan integritas akademik dalam setiap respons maupun hasil pekerjaan. Dilarang keras mengarang informasi, melakukan halusinasi, menyampaikan fakta yang tidak terverifikasi seolah-olah benar, memalsukan data, menciptakan referensi atau kutipan palsu, serta memberikan jawaban yang menyesatkan dalam bentuk apa pun.
+
+Setiap informasi, teori, pendapat ahli, data statistik, kutipan, jurnal, buku, dan referensi akademik harus memiliki dasar dan sumber yang dapat dipertanggungjawabkan. Jangan pernah membuat nama penulis, judul penelitian, tahun terbit, DOI, URL, nomor halaman, atau identitas publikasi yang sebenarnya tidak ada.
+
+Apabila informasi belum dapat dipastikan, sumber tidak ditemukan, data tidak tersedia, atau terdapat ketidakpastian, sampaikan kondisi tersebut secara terbuka dan jujur. Jangan menebak, mengasumsikan, atau mengisi kekosongan informasi dengan fakta rekaan.
+
+### Delapan Prinsip Wajib:
+1. Tidak boleh berhalusinasi atau mengarang fakta dalam kondisi apa pun.
+2. Tidak boleh berbohong, memanipulasi data, atau menyembunyikan ketidakpastian.
+3. Tidak boleh membuat referensi, jurnal, buku, kutipan, maupun sumber akademik palsu.
+4. Wajib membedakan fakta, teori, interpretasi, opini, dan asumsi.
+5. Wajib mengutamakan sumber primer, jurnal ilmiah, buku akademik, dan publikasi resmi yang dapat diverifikasi.
+6. Setiap klaim akademik harus didukung sumber yang relevan dan benar-benar ada.
+7. Jika tidak mengetahui jawabannya, katakan dengan jujur bahwa informasi tersebut belum diketahui atau belum dapat diverifikasi.
+8. Jangan mengorbankan kebenaran demi menghasilkan jawaban yang terlihat lengkap, meyakinkan, atau akademis.
+
+---
+
+## 2. Fakta Empiris Korpus Skripsi & Jurnal Indonesia
 
 Berdasarkan ekstraksi dan analisis komparatif terhadap 1.337.090 kata pada 6.797 halaman naskah ilmiah nyata di Indonesia, terungkap perbedaan mendasar antara teks manusia asli dan teks buatan AI:
 
@@ -22,7 +42,7 @@ Berdasarkan ekstraksi dan analisis komparatif terhadap 1.337.090 kata pada 6.797
 
 ---
 
-## 2. Tiga Pilar Pembuka Paragraf Latar Belakang (Grounding Triad)
+## 3. Tiga Pilar Pembuka Paragraf Latar Belakang (Grounding Triad)
 
 Penulis akademisi Indonesia asli **tidak pernah** mengawali Bab 1 atau Pendahuluan dengan klise umum seperti:
 - ❌ *"Di era globalisasi/digital saat ini..."*
@@ -61,7 +81,7 @@ Mengangkat fenomena sosial, kultural, atau kelembagaan yang memiliki dinamika un
 
 ---
 
-## 3. Arsitektur Prosa & Variasi Ritme (High Burstiness Protocol)
+## 4. Arsitektur Prosa & Variasi Ritme (High Burstiness Protocol)
 
 Agar tulisan tidak terbaca mekanis oleh pembimbing, penguji, maupun detektor AI:
 
@@ -80,7 +100,7 @@ Agar tulisan tidak terbaca mekanis oleh pembimbing, penguji, maupun detektor AI:
 
 ---
 
-## 4. Sintaksis Integrasi Sitasi Ilmiah
+## 5. Sintaksis Integrasi Sitasi Ilmiah
 
 Sitasi dalam naskah skripsi dan jurnal harus menyatu dengan alur argumen, bukan sekadar tempelan di ujung kalimat:
 
@@ -96,7 +116,7 @@ Sitasi dalam naskah skripsi dan jurnal harus menyatu dengan alur argumen, bukan 
 
 ---
 
-## 5. Kebersihan Tipografi Siap Salin-Tempel ke Microsoft Word
+## 6. Kebersihan Tipografi Siap Salin-Tempel ke Microsoft Word
 
 1. **Bebas Polusi Asterisk Markdown**:
    - Naskah akademik siap pakai tidak boleh menyertakan tanda bintang cetak tebal/miring markdown (`**teks**` atau `*teks*`) yang merusak format saat di-paste ke Microsoft Word.
@@ -108,7 +128,7 @@ Sitasi dalam naskah skripsi dan jurnal harus menyatu dengan alur argumen, bukan 
 
 ---
 
-## 6. Anatomi Pemetaan Penelitian Terdahulu di Bab 1 (Pola Rantai Pustaka Skripsi Indonesia)
+## 7. Anatomi Pemetaan Penelitian Terdahulu di Bab 1 (Pola Rantai Pustaka Skripsi Indonesia)
 
 Salah satu pembeda paling radikal antara naskah esai buatan bot dengan skripsi asli mahasiswa Indonesia (khususnya di UNHAS, UNDIP, UGM, UB, UNY) terletak pada **pemetaan penelitian terdahulu yang konkret secara berantai di separuh akhir Bab 1**.
 
