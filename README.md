@@ -32,6 +32,13 @@ human-authenticity/
 │   ├── anti_translationese.md        # Kamus De-kalkifikasi Bahasa Ilmiah Indonesia
 │   ├── academic_examples.md          # Contoh naskah lolos Turnitin / GPTZero
 │   └── academic_checklist.md         # Lembar periksa mandiri sebelum bimbingan
+├── novel/                            # MODUL KHUSUS NOVEL & FIKSI SASTRA
+│   ├── SKILL.md                      # Entry point mandiri (human-authenticity-novel)
+│   ├── novel_craft_guide.md          # Arsitektur adegan, pacing ketegangan, & anti-klise
+│   ├── dialogue_and_character.md     # Dialog bernyawa dengan subteks & gerak tokoh
+│   ├── sensory_immersion.md          # Detail panca indera konkret (bau, suhu, suara)
+│   ├── novel_examples.md             # Cuplikan adegan aksi, hening, & konflik karakter
+│   └── novel_checklist.md            # Lembar periksa kualitas naskah bab novel
 ├── casual/                           # MODUL KHUSUS OBROLAN SANTAI
 │   ├── SKILL.md                      # Entry point obrolan santai
 │   ├── conversational_rules.md       # Aturan dialog dan partikel wacana alami
