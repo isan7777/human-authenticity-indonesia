@@ -104,3 +104,34 @@ Sitasi dalam naskah skripsi dan jurnal harus menyatu dengan alur argumen, bukan 
 2. **Penyebutan Diri Penulis**:
    - Jangan gunakan kata ganti orang pertama (*saya, kami, kita*).
    - Gunakan sudut pandang pihak ketiga objektif: *peneliti*, *penulis*, atau gunakan kalimat pasif (*penelitian ini bertujuan untuk*, *analisis dilakukan terhadap*).
+
+
+---
+
+## 6. Anatomi Pemetaan Penelitian Terdahulu di Bab 1 (Pola Rantai Pustaka Skripsi Indonesia)
+
+Salah satu pembeda paling radikal antara naskah esai buatan bot dengan skripsi asli mahasiswa Indonesia (khususnya di UNHAS, UNDIP, UGM, UB, UNY) terletak pada **pemetaan penelitian terdahulu yang konkret secara berantai di separuh akhir Bab 1**.
+
+Teks bot selalu menulis latar belakang sebagai rentetan paragraf opini teoretis abstrak. Sebaliknya, skripsi mahasiswa asli memaparkan silsilah penelitian sebelumnya secara runtut dan spesifik:
+
+### Pola Kronologis Rantai Pustaka Asli:
+1. **Kajian Tahap Awal**:
+   *"Kajian-kajian tahap awal mengenai [topik] dilakukan oleh [Peneliti 1 (tahun)], [Peneliti 2 (tahun)], dengan melakukan [metode/analisis komparasi]..."*
+2. **Penelitian Lanjutan**:
+   *"Kajian-kajian yang dilakukan tidak hanya sampai pada tahap awal sebagaimana yang telah disebutkan pada paragraf sebelumnya, penelitian-penelitian lanjutan mengenai [topik] masih tetap dilakukan seperti yang dilakukan oleh [Peneliti 3 (tahun)], yang mengkaji tentang..."*
+3. **Fokus Spesifik Tokoh Berikutnya**:
+   *"[Peneliti 4 (tahun)], mengkaji tentang [topik] pada tahun [X], dengan fokus kajian mengenai [aspek Y]. Hasil kajiannya bahwa..."*
+4. **Perkembangan Terkini**:
+   *"[Peneliti 5 (tahun)], kembali mengkaji tentang [topik], yang berjudul [Judul Riset]. Dari hasil penelitian ini menyimpulkan bahwa..."*
+5. **Celah / Posisi Riset Peneliti Saat Ini**:
+   *"Berbeda dengan penelitian-penelitian sebelumnya, penelitian ini berfokus pada [lokasi/aspek baru yang belum terjamah]..."*
+
+### Ciri Diksi & Sintaksis Manusiawi yang Wajib Dipertahankan:
+- **Pengulangan Wajar Kata Kunci Subjek**: Jangan mengganti kata kunci utama topik secara berlebihan dengan sinonim asing. Pengulangan alami kata benda subjek (seperti *makam, nisan, AI, mahasiswa, pupuk*) adalah karakteristik alami manusia.
+- **Frasa Penghubung Alami Mahasiswa**:
+  - *hal ini mungkin disebabkan karena adanya anggapan bahwa...*
+  - *biasanya sangat berkaitan dengan...*
+  - *biasanya digunakan oleh...*
+  - *sebagaimana yang telah disebutkan pada paragraf sebelumnya...*
+  - *kembali mengkaji tentang...*
+  - *Sedangkan Menurut [Tokoh]...* (gaya pembanding di awal paragraf).

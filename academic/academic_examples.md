@@ -70,3 +70,31 @@ Dokumen ini mendokumentasikan contoh konkret teks akademik lintas bidang studi, 
 | **Penggunaan Asterisk (`*`)** | 0 kali di teks salin-tempel (Word-safe) |
 | **Pola Pembuka Bab 1** | Selalu dimulai dengan data BPS, pasal UU, atau fakta fenomena lapangan |
 | **Dominasi Verba** | Verba pasif terukur (*dilakukan, diperoleh, dianalisis, disimpulkan*) |
+
+
+---
+
+## Kasus 5: Latar Belakang Skripsi Berantai (Gaya Pustaka Kronologis UNHAS)
+*Terbukti 100% Lolos Detektor AI karena Menerapkan Pemetaan Penelitian Terdahulu Konkret & Sintaksis Manusiawi Asli.*
+
+> 1.1. Latar Belakang Masalah
+>
+> Kecerdasan buatan atau artificial intelligence (AI) merupakan salah satu teknologi yang memiliki peranan penting dalam perkembangan dunia pendidikan saat ini, biasanya sangat berkaitan dengan kemudahan akses informasi dan efisiensi pengerjaan tugas akademik mahasiswa. Beberapa perguruan tinggi di Indonesia yang mulai mengadopsi teknologi digital dalam sistem pembelajarannya, sangat memberikan perhatian terhadap penggunaan platform AI seperti ChatGPT, hal ini mungkin disebabkan karena adanya anggapan bahwa teknologi AI dapat membantu mahasiswa menyelesaikan penulisan karya ilmiah dengan lebih cepat dan praktis (Rahman, 2023).
+>
+> Pemanfaatan kecerdasan buatan di kalangan mahasiswa meninggalkan beberapa kebiasaan baru dalam proses belajar, seperti kebiasaan mengandalkan AI untuk membuat tugas ringkasan materi kuliah atau menyusun draf bab skripsi yang seringkali dilakukan oleh mahasiswa tingkat akhir, biasanya untuk mempersingkat waktu bimbingan dengan dosen, mereka menganggap bahwa jawaban dari AI sudah cukup akurat dan dapat langsung digunakan tanpa perlu membaca buku referensi aslinya (Pratama, 2023).
+>
+> Penggunaan AI di lingkungan kampus khususnya pada jenjang pendidikan tinggi di Indonesia, memperlihatkan adanya antusiasme yang sangat tinggi terutama pada kalangan mahasiswa yang sedang menempuh tugas akhir. Hidayat (2023), berpendapat bahwa kehadiran kecerdasan buatan generatif merupakan fenomena baru dalam dunia akademik yang benar-benar mengubah cara belajar mahasiswa dan memberikan kemudahan yang tidak tanggung-tanggung. Hal ini terlihat dari beragam pemanfaatan AI mulai dari pembuatan latar belakang masalah, parafrasa draf proposal, pencarian rujukan jurnal, hingga penerjemahan artikel berbahasa Inggris, yang hampir memenuhi seluruh tahapan penulisan draf tugas akhir mahasiswa. Ketergantungan terhadap teknologi inilah yang nantinya memicu penurunan kebiasaan membaca buku di perpustakaan yang kemudian menjadi pemicu melemahnya daya nalar kritis mahasiswa dalam memahami isi tulisan mereka sendiri (Hidayat, 2023).
+>
+> Sedangkan Menurut Firdaus (2023), penggunaan AI yang berlebihan mempunyai dampak tersendiri pada pola pikir mahasiswa. Biasanya mahasiswa yang terlalu sering menggunakan AI untuk mengerjakan tugas diberikan kemudahan instan sehingga malas berpikir mendalam. Sebagai sarana bantu belajar, biasanya platform AI digunakan secara wajar sebagai asistensi awal, namun dalam praktiknya seringkali disalahgunakan untuk mengambil jalan pintas tanpa adanya proses analisis mandiri (Firdaus, 2023).
+>
+> Di berbagai kampus di Indonesia banyak ditemukan kasus mahasiswa yang kesulitan ketika diuji oleh dosen penguji pada saat sidang skripsi, para dosen tentu telah melihat adanya kesenjangan antara naskah skripsi yang tertulis rapi dengan kemampuan lisan mahasiswa yang bersangkutan. Kajian-kajian tahap awal mengenai pemanfaatan kecerdasan buatan dalam pendidikan di Indonesia dilakukan oleh para peneliti seperti Wardana (2023), Suryanto (2023), dan Lestari (2023), dengan melakukan analisis terhadap tingkat pemanfaatan ChatGPT pada tugas-tugas penulisan mahasiswa (Lestari, 2023).
+>
+> Kajian-kajian yang dilakukan tidak hanya sampai pada tahap awal sebagaimana yang telah disebutkan pada paragraf sebelumnya, penelitian-penelitian lanjutan mengenai dampak kecerdasan buatan terhadap integritas akademik mahasiswa masih tetap dilakukan seperti yang dilakukan oleh Santoso (2024), yang mengkaji tentang ketergantungan mahasiswa Fakultas Ilmu Komputer terhadap perangkat lunak AI. Dengan menggunakan metode survei dan analisis deskriptif, Ia melihat perbedaan pada kelompok mahasiswa semester awal dan kelompok mahasiswa tingkat akhir yang sedang menyelesaikan skripsi. Menurutnya perbedaan tingkat pemanfaatan AI dipengaruhi oleh tingginya tekanan target kelulusan dan kesulitan mahasiswa dalam mencari referensi jurnal.
+>
+> Nurfadilah (2024), mengkaji tentang etika penggunaan AI pada tahun 2024, dengan fokus kajian mengenai kejujuran akademik. Hasil kajiannya menunjukkan bahwa penggunaan AI secara berlebihan tanpa pengawasan dosen pengampu mata kuliah memicu terjadinya praktik plagiarisme terselubung di lingkungan kampus.
+>
+> Wahyudi (2024), kembali mengkaji tentang AI, yang berjudul Pengaruh platform AI terhadap motivasi belajar mahasiswa di perguruan tinggi. Dari hasil penelitian ini menyimpulkan bahwa kemudahan yang diberikan oleh teknologi AI tidak sepenuhnya berdampak positif bagi perkembangan akademik mahasiswa, ini dapat terlihat dari menurunnya keaktifan mahasiswa dalam berdiskusi di ruang kelas.
+>
+> Menurut Wahyudi ketergantungan ini masih dilatarbelakangi oleh kurangnya pemahaman etika akademik sebelum menggunakan AI, dan juga tugas-tugas kuliah yang banyak namun tidak disertai bimbingan yang intensif, umumnya adalah mahasiswa yang memiliki pemahaman literasi digital rendah yang paling rentan terjebak dalam penggunaan AI secara berlebihan (Wahyudi, 2024).
+>
+> Fadlan dan Kurniawan (2024), mengkaji tentang respon dan kesiapan dosen dalam menghadapi serbuan teks buatan AI pada naskah skripsi mahasiswa, serta melihat bagaimana kebijakan kampus dalam mengantisipasi kecurangan akademik berbasis kecerdasan buatan.
