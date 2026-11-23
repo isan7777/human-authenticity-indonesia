@@ -45,15 +45,35 @@ academic/
 
 ---
 
-## 3. Tujuh Perintah Mutlak Penulisan Akademik HAE
+## 3. Sembilan Perintah Mutlak Penulisan Akademik HAE
 
 1. **Integritas Sumber & Kejujuran Data**: Seluruh sitasi, angka data statistik, nama undang-undang, dan nama tokoh wajib merujuk pada entitas riil yang benar-benar ada. Jika data belum tersedia, akui secara terbuka.
 2. **Haramkan Tanda Pisah Em-Dash (`—`)**: Bahasa ilmiah baku Indonesia tidak menggunakan tanda pisah teatrikal (hanya 0,008% dari 1,33 juta kata korpus nyata). Gunakan koma, titik, atau konjungsi resmi (*yakni, yaitu, bahwa*).
-3. **Nol Polusi Bintang Markdown (Word-Safe)**: Jangan menggunakan tanda bintang miring ganda atau tunggal (`*istilah*`) di dalam tanda kurung. Naskah harus bersih agar siap disalin-tempel ke Microsoft Word tanpa merusak spasi.
+3. **Nol Polusi Bintang Markdown (Word-Safe)**: Jangan menggunakan tanda bintang miring ganda atau tunggal (`*istilah*`) di dalam naskah. Naskah harus bersih agar siap disalin-tempel ke Microsoft Word tanpa merusak spasi.
 4. **Anti-Kalimat Pembuka Ensiklopedi (Wajib Grounding Triad)**: Dilarang mengawali Bab 1 dengan klise internet (*Di era digital saat ini, Teknologi berkembang pesat*). Wajib membuka dengan Regulasi/UU resmi, Data Statistik Riil (BPS/Kementerian), atau Fenomena Sosio-Kultural Nyata di lapangan.
-5. **Pola Rantai Pustaka Kronologis di Bab 1**: Paparkan penelitian-penelitian terdahulu yang relevan secara berantai, konkret menyebutkan peneliti dan fokus kajiannya dalam paragraf-paragraf pendek mandiri.
-6. **Variasi Panjang Kalimat Nyata (Pola 40-40-20 & High Burstiness)**: Pertahankan deviasi standar tinggi (~14 kata). Selipkan minimal satu kalimat pendek tegas (2–10 kata) di setiap paragraf untuk memecah ritme metronomik AI.
-7. **Bahasa Indonesia Baku Bebas Translationese**: Hindari pola terjemahan harfiah bahasa Inggris. Ganti pengulangan frasa *"di sisi lain"* dengan konjungsi alami (*Namun, Akan tetapi, Sementara itu, Sebaliknya*).
+5. **Wajib Penjangkaran Kasus Riil (Anti-Tulisan Mengambang)**: Skripsi dan karya ilmiah tidak pernah ditulis tanpa lokus penelitian. Jika pengguna meminta topik umum (misal: "penggunaan AI", "stunting", "kemiskinan"), JANGAN membuat esai umum yang mengambang. Wajib langsung jangkar pada lokus empiris konkret (kampus/fakultas tertentu, kelurahan/kecamatan tertentu, atau kelompok masyarakat tertentu) lengkap dengan data dan wawancara awal.
+6. **Eliminasi Tiga Dosa Kalimat Oranye (Penyebab Terdeteksi AI)**:
+   - *Dosa 1: Overly Formal & Mechanical Precision*: Dilarang menulis kalimat formal steril ala brosur dinas atau buku teks perkotaan (*"Perkembangan fisik kawasan perkotaan yang berbatasan langsung..."*). Ganti dengan narasi visual fisik yang membumi.
+   - *Dosa 2: Technical Jargon & Akronim Bertumpuk*: Dilarang menumpuk singkatan resmi dalam kurung di satu kalimat bertingkat seperti `(RTRW)` dan `(LP2B)`. Uraikan secara lugas dalam kalimat aktif.
+   - *Dosa 3: Generalisasi Sosiologi Abstrak*: Dilarang membuat premis deduktif umum (*"Dalam sistem bagi hasil tradisional di pedesaan Jawa..."*). Tuliskan fakta spesifik di lapangan (*"Di Pedurungan, sebagian besar petani menggarap sawah sewa dengan sistem maro tanpa perjanjian tertulis"*).
+7. **Pola Rantai Pustaka Kronologis di Bab 1**: Paparkan penelitian-penelitian terdahulu yang relevan secara berantai, konkret menyebutkan peneliti dan fokus kajiannya dalam paragraf-paragraf pendek mandiri ala tradisi skripsi perguruan tinggi Indonesia.
+8. **Variasi Panjang Kalimat Nyata (Pola 40-40-20 & High Burstiness)**: Pertahankan deviasi standar tinggi (~14 kata). Selipkan minimal satu kalimat pendek tegas (2–10 kata) di setiap paragraf untuk memecah ritme metronomik AI.
+9. **Bahasa Indonesia Baku Bebas Translationese**: Hindari pola terjemahan harfiah bahasa Inggris. Ganti pengulangan frasa *"di sisi lain"* dengan konjungsi alami (*Namun, Akan tetapi, Sementara itu, Sebaliknya*).
+
+---
+
+## 4. Protokol Eksekusi Penulisan Konsisten (Standar Output)
+
+Setiap kali modul `/human-academic` dipanggil untuk menghasilkan naskah akademik (Latar Belakang, Tinjauan Pustaka, atau Pembahasan):
+1. **Identifikasi Lokus & Pijakan Data**: Pastikan ada subjek penelitian riil (instansi/daerah/kelompok warga), data kuantitatif primer/sekunder (BPS/Lembaga), dan wawancara lapangan awal.
+2. **Terapkan Rumus Kalimat Hijau**:
+   - *Journalistic Style*: Angka data riil, tahun komparasi, dan nama lembaga.
+   - *Cultural References*: Istilah adat/sosial setempat (*maro, tali asih, segel materai*).
+   - *Human Touch*: Sentuhan dampak kemanusiaan (usia buruh, keterbatasan pendidikan, peralihan profesi serabutan).
+3. **Format Pengiriman Bersih (Word-Safe Ready)**:
+   - Sajikan teks naskah akademik di dalam blok teks monospaced (`text`) atau teks polos tanpa tanda bintang formatting markdown (`**` atau `*`), agar pengguna dapat langsung menyalinnya ke Microsoft Word tanpa merusak spasi atau pemformatan.
+   - Berikan ringkasan verifikasi bahwa naskah 100% bebas dari 3 Dosa Kalimat Oranye dan bebas dari tanda pisah em-dash (`—`).
+
 
 ---
 
