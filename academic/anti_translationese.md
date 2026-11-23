@@ -1,36 +1,69 @@
 # Anti-Translationese: Kamus De-kalkifikasi Bahasa Ilmiah Indonesia
+*Berdasarkan Analisis Leksikal 114 Naskah Skripsi & Jurnal Ilmiah (1.337.090 Kata)*
 
-Dokumen ini adalah rujukan leksikal untuk membersihkan naskah akademik dari serapan kaku konstruksi bahasa Inggris (*calque translation*) yang sering membuat teks terdeteksi sebagai keluaran bot.
+Dokumen ini adalah rujukan leksikal untuk membersihkan naskah akademik dari serapan kaku konstruksi bahasa Inggris (*calque translation*) dan pola penerjemahan mesin yang menjadi indikator utama deteksi AI (Turnitin AI, GPTZero, dsb.).
 
 ---
 
-## 1. Daftar De-kalkifikasi Frasa Ilmiah Populer
+## 1. Tabel De-kalkifikasi Frasa & Konjungsi Ilmiah
 
-| Frasa Translationese AI | Mengapa Canggung | Alternatif Bahasa Ilmiah Alami |
+| Frasa Translationese AI (Canggung) | Pola Asal Bahasa Inggris | Alternatif Bahasa Ilmiah Alami (Korpus Riil) |
 | :--- | :--- | :--- |
-| *"Secara fundamental dibutuhkan..."* | Mengikuti pola *is fundamentally required*. | *"Menjadi landasan mutlak bagi..."*, *"Sangat mendasar bagi..."* |
-| *"Terakselerasi oleh normalisasi X..."* | Runtunan kata serapan Latinate yang berat. | *"Dipercepat oleh kebiasaan X yang makin lumrah..."* |
-| *"Bermain peran penting dalam..."* | Terjemahan harfiah *plays an important role*. | *"Berperan sentral dalam..."*, *"Menentukan arah..."* |
-| *"Di akhir hari..."* | Terjemahan harfiah *at the end of the day*. | *"Pada akhirnya..."*, *"Bagaimanapun juga..."* |
-| *"Membuat perbedaan yang signifikan..."* | Terjemahan harfiah *make a significant difference*. | *"Memberikan dampak terukur..."*, *"Berdampak nyata..."* |
-| *"Membawa wawasan baru..."* | Terjemahan harfiah *bring new insights*. | *"Membuka perspektif baru..."*, *"Memperkaya khazanah kajian..."* |
-| *"Menghadapi tantangan yang tidak pernah terjadi sebelumnya..."* | Terjemahan harfiah *unprecedented challenges*. | *"Menghadapi krisis luar biasa..."*, *"Menghadapi hambatan baru..."* |
-| *"Menjadi bukti bagi..."* | Terjemahan harfiah *is a testament to*. | *"Membuktikan bahwa..."*, *"Menegaskan kembali bahwa..."* |
+| *"Di sisi lain..."* (dipakai berulang) | *On the other hand...* | **Namun**, **Akan tetapi**, **Sementara itu**, **Sebaliknya** |
+| *"Bermain peran penting dalam..."* | *Plays an important/key role in...* | **Memegang peranan vital/strategis dalam...**, **Berperan sentral dalam...** |
+| *"Secara fundamental dibutuhkan..."* | *Is fundamentally needed...* | **Menjadi landasan mutlak bagi...**, **Sangat mendasar bagi...** |
+| *"Penting untuk dicatat bahwa..."* | *It is important to note that...* | **Perlu digarisbawahi bahwa...**, **Patut dicermati bahwa...** |
+| *"Berdasarkan pada kenyataan bahwa..."* | *Based on the fact that...* | **Bertolak dari kenyataan bahwa...**, **Mengingat bahwa...** |
+| *"Membawa wawasan baru..."* | *Bring new insights...* | **Membuka perspektif baru...**, **Memperkaya khazanah kajian...** |
+| *"Membuat perbedaan yang signifikan..."* | *Make a significant difference...* | **Memberikan dampak terukur...**, **Berdampak nyata terhadap...** |
+| *"Di akhir hari..."* | *At the end of the day...* | **Pada akhirnya...**, **Bagaimanapun juga...** |
+| *"Menghadapi tantangan tak terduga..."* | *Unprecedented challenges...* | **Menghadapi hambatan baru...**, **Menghadapi anomali lapangan...** |
+| *"Menjadi bukti bagi..."* | *Is a testament to...* | **Membuktikan bahwa...**, **Menegaskan kembali bahwa...** |
+| *"Dalam rangka untuk..."* (mubazir) | *In order to...* | **Guna...**, **Untuk...**, **Dalam rangka...** (pilih salah satu) |
+| *"Sebagai hasil dari..."* | *As a result of...* | **Sebagai konsekuensi dari...**, **Akibat...** |
+| *"Sesuai dengan apa yang dikatakan X..."* | *In accordance with what X said...* | **Sebagaimana dikemukakan oleh X (Tahun)...** |
+| *"Hal ini adalah karena..."* | *This is because...* | **Hal tersebut dilandasi oleh...**, **Kondisi ini disebabkan oleh...** |
 
 ---
 
-## 2. Aturan Eliminasi Tanda Kurung Istilah Asing
+## 2. Reduksi Frasa "Di Sisi Lain" yang Berlebihan
 
-AI konvensional gemar menyisipkan padanan bahasa Inggris di dalam kurung miring pada setiap kalimat:
-- *Buruk (Khas AI)*: *"Anak kehilangan kemampuan regulasi diri (*self-regulation*) akibat pengaruh gawai (*gadget*)."*
-- *Otentik Alami*: *"Anak kehilangan kemampuan mengendalikan emosinya akibat pemakaian gawai tanpa batas."*
+Detektor AI mendeteksi kemunculan frasa *"di sisi lain"* sebagai sinyal kuat teks sintetis karena model bahasa besar cenderung menggunakan frasa ini sebagai penyeimbang mekanis di hampir setiap paragraf. 
 
-**Aturan Penulisan:**
-Jika istilah bahasa Indonesia sudah memiliki definisi yang diakui dalam KBBI dan literatur keilmuan lokal (seperti *gawai, swadaya, uji petik, kesahihan, keandalan*), **jangan pernah menambahkan padanan bahasa Inggrisnya di dalam kurung**. Cukup gunakan istilah bahasa Indonesia tersebut secara konsisten.
+**Bukti Korpus Riil**:
+Dalam korpus 1,33 juta kata skripsi dan jurnal Indonesia, frasa *"di sisi lain"* hanya ditemukan sebanyak **29 kali**. Sebaliknya, penulis manusia menggunakan:
+- *Namun,* (927 kali)
+- *Akan tetapi,* (367 kali)
+- *Sebaliknya,* (174 kali)
+- *Sementara itu,* (52 kali)
+- *Adapun...* (287 kali)
+
+**Panduan Koreksi**:
+Ganti penggunaan *"di sisi lain"* dengan konjungsi antarkalimat yang spesifik sesuai hubungan logisnya:
+- Gunakan **Namun** atau **Akan tetapi** jika menunjukkan pertentangan langsung antara premis dan fakta.
+- Gunakan **Sementara itu** jika menunjukkan dua peristiwa atau kondisi yang berlangsung beriringan di ruang/subjek berbeda.
+- Gunakan **Sebaliknya** jika menunjukkan perbandingan kondisi yang bertolak belakang secara simetris.
 
 ---
 
-## 3. Hubungan dengan Modul Lain
+## 3. Aturan Tanda Kurung Istilah Asing & Kebersihan Word
 
-- Untuk panduan menyusun naskah skripsi yang bersih, baca [formal_research_guide.md](formal_research_guide.md).
-- Untuk lembar periksa mandiri, gunakan [academic_checklist.md](academic_checklist.md).
+AI sering kali menyisipkan padanan bahasa Inggris di dalam kurung miring pada setiap kalimat:
+- *Buruk (Khas AI)*: *"Pelajar mengalami penurunan fokus (*attention span*) akibat ketergantungan gawai (*gadget*)."*
+- *Baku Alami*: *"Pelajar mengalami penurunan rentang konsentrasi akibat ketergantungan pada gawai pintar."*
+
+### Pedoman Penggunaan Istilah Asing:
+1. **Prioritaskan Istilah Baku KBBI**:
+   Jika istilah keilmuan sudah diserap dan memiliki padanan resmi (misalnya: *analisis, sampel, variabel, hipotesis, populasi, efisiensi, validitas, reliabilitas, gawai, luring, daring*), gunakan istilah Indonesia murni tanpa mencantumkan kata bahasa Inggrisnya lagi.
+2. **Kaidah Dwibahasa Resmi**:
+   Bila istilah asing baru atau konsep spesifik yang belum memiliki padanan baku harus diperkenalkan untuk pertama kali, tuliskan padanan Indonesianya terlebih dahulu, diikuti istilah aslinya dalam kurung tanpa format rusak:
+   - *Pola Benar*: *efek pengganda (multiplier effect)*, *penelitian tindakan (action research)*, *kutub pertumbuhan (growth pole)*.
+   - *Pola Rusak (Dilarang)*: `*multiplier effect*`, `(*multiplier effect*)`.
+
+---
+
+## 4. Hubungan dengan Modul Lain
+
+- Untuk kaidah formal penyusunan Bab 1 dan 2, lihat [formal_research_guide.md](formal_research_guide.md).
+- Untuk studi kasus perbandingan sebelum dan sesudah rekonstruksi, baca [academic_examples.md](academic_examples.md).
+- Untuk pengecekan naskah akhir, gunakan [academic_checklist.md](academic_checklist.md).
