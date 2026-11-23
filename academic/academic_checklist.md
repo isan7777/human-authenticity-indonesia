@@ -36,6 +36,9 @@ Gunakan lembar periksa ini sebelum menyalin teks ke dokumen Microsoft Word / Goo
 - [ ] **Pola Rantai Pustaka Kronologis**: Memaparkan penelitian terdahulu yang relevan secara berantai dan membaginya ke dalam paragraf-paragraf pendek mandiri.
 - [ ] **Eliminasi Kecanduan "Di Sisi Lain"**: Frasa *"di sisi lain"* tidak muncul berulang (maksimal 0–1 kali dalam seluruh bab). Digantikan oleh *Namun*, *Akan tetapi*, *Sementara itu*, atau *Sebaliknya*.
 - [ ] **Penempatan Konjungsi Sesuai PUEBI**: Kata *sedangkan* dan *sehingga* diletakkan di tengah kalimat setelah koma, bukan mengawali kalimat setelah tanda titik.
+- [ ] **Bebas Akronim Berjejer dalam Kurung (Anti-Technical Jargon)**: Tidak menumpuk singkatan resmi dalam tanda kurung berturut-turut (misal: `(RTRW)` dan `(LP2B)`) di dalam satu anak kalimat majemuk. Uraikan maknanya secara lugas dalam kalimat aktif.
+- [ ] **Bebas Bahasa Buku Teks Steril (Anti-Overly Formal / Mechanical Precision)**: Menghindari frasa steril mekanis seperti *"Perkembangan fisik kawasan perkotaan..."* atau premis sosiologis abstrak. Menggantinya dengan detail visual lapangan dan istilah sosio-kultural lokal.
+
 
 ---
 

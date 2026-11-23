@@ -98,3 +98,27 @@ Dokumen ini mendokumentasikan contoh konkret teks akademik lintas bidang studi, 
 > Menurut Wahyudi ketergantungan ini masih dilatarbelakangi oleh kurangnya pemahaman etika akademik sebelum menggunakan AI, dan juga tugas-tugas kuliah yang banyak namun tidak disertai bimbingan yang intensif, umumnya adalah mahasiswa yang memiliki pemahaman literasi digital rendah yang paling rentan terjebak dalam penggunaan AI secara berlebihan (Wahyudi, 2024).
 >
 > Fadlan dan Kurniawan (2024), mengkaji tentang respon dan kesiapan dosen dalam menghadapi serbuan teks buatan AI pada naskah skripsi mahasiswa, serta melihat bagaimana kebijakan kampus dalam mengantisipasi kecurangan akademik berbasis kecerdasan buatan.
+
+---
+
+## Kasus 6: Latar Belakang Alih Fungsi Lahan Pertanian (Kalibrasi Diagnostik Hijau vs Oranye)
+*Studi Kasus Pembuktian Empiris: Mengubah Kalimat Berindikator Oranye (Overly Formal, Technical Jargon, Mechanical Precision) Menjadi Kalimat Berindikator Hijau (Journalistic Style, Cultural References, Qualitative Human Touch).*
+
+### Teks Hasil Kalibrasi Penuh (Word-Safe & Bebas Em-Dash):
+
+1.1. Latar Belakang Masalah
+
+Kecamatan Pedurungan merupakan salah satu pintu masuk utama menuju Kota Semarang dari arah timur. Letak wilayahnya yang berbatasan langsung dengan Kabupaten Demak menjadikan kawasan ini sangat diminati oleh para pengembang perumahan dan pengusaha pergudangan. Dalam kurun waktu sepuluh tahun terakhir, hamparan sawah hijau di sepanjang jalur utama perlahan hilang dan berganti menjadi deretan ruko serta kawasan perumahan klaster. Berdasarkan data Badan Pusat Statistik Kota Semarang (2023), luas lahan sawah produktif di Kecamatan Pedurungan yang pada tahun 2013 masih tercatat seluas 412 hektare, kini hanya tersisa kurang dari 85 hektare akibat maraknya izin pengeringan lahan untuk kepentingan komersial.
+
+Perubahan fungsi lahan sawah di sepanjang koridor Jalan Majapahit tidak hanya mengubah fisik kawasan pedesaan menjadi permukiman padat. Dampak paling nyata justru dirasakan oleh para buruh tani dan petani penggarap yang selama puluhan tahun menggantungkan nafkah hidupnya dari sawah sewa milik orang lain. Di wilayah Pedurungan, sebagian besar petani menggarap lahan dengan sistem bagi hasil maro atau sewa tahunan tanpa ada perjanjian tertulis di atas kertas segel atau materai. Akibatnya, saat pemilik tanah yang umumnya tinggal di pusat kota memutuskan untuk menjual sawahnya kepada pihak pengembang dengan harga miliaran rupiah, petani penggarap sama sekali tidak punya kuasa untuk mempertahankan lahan garapannya.
+
+Berdasarkan hasil wawancara awal dengan beberapa mantan buruh tani di Kelurahan Penggaron Kidul pada bulan November 2024, uang kompensasi atau tali asih yang diberikan oleh pihak pemilik tanah sering kali bernilai sangat kecil dan hanya cukup untuk menutupi kebutuhan pokok keluarga selama beberapa bulan saja. Kehilangan mata pencaharian utama ini memaksa para kepala keluarga yang mayoritas sudah berusia di atas lima puluh tahun bekerja serabutan, seperti menjadi kuli bangunan lepas, buruh panggul pasar, atau tukang jaga malam. Ketiadaan keterampilan di luar sektor agraris serta rendahnya tingkat pendidikan formal menyebabkan mereka tersingkir dari kesempatan kerja di sektor formal yang tumbuh di sekitar kawasan perumahan baru tersebut.
+
+Persoalan alih fungsi lahan sawah di wilayah Jawa Tengah sebenarnya sudah pernah diangkat oleh beberapa peneliti terdahulu. Haryanto (2011) meneliti tentang perubahan mata pencaharian warga lokal pascarelokasi kampus Universitas Diponegoro ke kawasan Tembalang. Penelitian tersebut memfokuskan kajian pada pergeseran tenaga kerja dari sektor pertanian menuju sektor perdagangan dan penyedia jasa hunian sewa mahasiswa di Tembalang.
+
+Di daerah lain, Prasetyo (2019) mengkaji dampak konversi lahan pertanian terhadap ketahanan pangan rumah tangga petani di Kabupaten Demak. Hasil kajiannya menyimpulkan bahwa berkurangnya sawah produktif menurunkan ketersediaan stok gabah keluarga dan memaksa petani membeli beras dari pasar dengan harga yang lebih mahal.
+
+Sementara itu, penelitian yang dilakukan oleh Nugroho dan Setyowati (2022) menyoroti persoalan penegakan aturan tata ruang wilayah di Kota Semarang. Menurut temuan mereka, pengawasan pemerintah daerah dalam melindungi lahan pertanian pangan berkelanjutan masih sangat lemah, sehingga pengeringan sawah di kawasan pinggiran terus berlangsung tanpa kendali yang jelas.
+
+Meskipun penelitian-penelitian terdahulu telah mengkaji masalah alih fungsi lahan dari sudut tata ruang dan ketahanan pangan makro, namun kajian yang mendalami bagaimana strategi bertahan hidup keluarga petani penggarap lansia pascakehilangan lahan sewa masih sangat jarang diteliti. Bertolak dari permasalahan tersebut, penelitian ini bertujuan untuk mengkaji secara mendalam kondisi sosial-ekonomi serta strategi adaptasi mata pencaharian yang dilakukan oleh mantan keluarga petani penggarap di Kelurahan Penggaron Kidul, Kecamatan Pedurungan, Kota Semarang.
+
