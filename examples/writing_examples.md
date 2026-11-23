@@ -54,3 +54,11 @@ Kami menghapus dependensi Elasticsearch dan beralih ke modul SQLite FTS5 (Full-T
 - **Ukuran Instalasi**: Berkurang dari 450MB menjadi 28MB.
 - **Konsumsi Memori**: Drop dari 1.200MB menjadi 35MB pada beban pencarian dokumen 50.000 entri.
 - **Trade-off**: Kehilangan kemampuan pencarian terdistribusi multi-node—fitur yang secara empiris memang tidak pernah dibutuhkan oleh 99,8% pengguna aplikasi desktop mandiri kami.
+
+---
+
+## 5. Latar Belakang Riset Baku (Standar Bab 1 Skripsi / Jurnal Ilmiah)
+
+Penggunaan gawai yang berlebihan pada anak usia dini telah mengubah pola interaksi harian yang dibutuhkan bagi tumbuh kembang mereka. Aktivitas fisik, permainan motorik, dan percakapan timbal balik dengan lingkungan sekitar kini banyak tergantikan oleh paparan layar digital dalam durasi yang panjang. Ritme konten digital yang serba cepat membiasakan anak pada stimulasi visual instan, sehingga menurunkan daya tahan mereka untuk memusatkan perhatian pada aktivitas nyata yang membutuhkan konsentrasi bertahap. Dampak yang kerap muncul di lingkungan sehari-hari antara lain anak menjadi cepat bosan, mudah tantrum ketika gawai dijauhkan, serta mengalami keterlambatan dalam berkomunikasi dan mengekspresikan keinginannya.
+
+Permasalahan ini kian meluas karena gawai sering dijadikan jalan pintas oleh orang tua untuk menenangkan anak yang rewel atau sedang mencari perhatian. Kebiasaan ini membuat anak kehilangan kesempatan belajar mengelola emosinya secara alami bersama orang dewasa di sekitarnya. Ketika anak memasuki bangku sekolah, kebiasaan tersebut berpotensi menimbulkan kendala penyesuaian diri, terutama dalam mengikuti aturan kelas, memecahkan masalah sederhana, dan berinteraksi dengan teman sebaya. Oleh karena itu, penelitian mengenai pola ketergantungan gawai pada anak usia dini dan peran pendampingan orang tua ini penting dilakukan guna merumuskan batas penggunaan yang sehat di lingkungan keluarga.

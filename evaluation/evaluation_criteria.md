@@ -25,10 +25,10 @@ Dokumen ini mendefinisikan rubrik evaluasi enam dimensi untuk mengukur kualitas,
 
 ### Dimensi 1: Naturalness (Keluwesan Alami)
 - **Skor 1 (Bot Total)**: Penuh basa-basi (*"Tentu saja!"*, *"Pertanyaan hebat!"*), menggunakan formula `Intro -> 3 Bullet -> Kesimpulan Moral`.
-- **Skor 2 (Robotik Terselubung)**: Basa-basi dikurangi, namun masih menggunakan kata transisi kaku di setiap awal kalimat (*"Selain itu", "Oleh karena itu"*).
-- **Skor 3 (Cukup Alami)**: Alur kalimat wajar, tetapi masih ada sedikit kecenderungan menggunakan kesimpulan umum di akhir.
-- **Skor 4 (Otentik)**: Bahasa mengalir lancar, langsung ke substansi, tanpa kata-kata klise AI, berhenti saat materi tuntas.
-- **Skor 5 (Masterful)**: Memiliki karakter suara yang khas, bernas, berwawasan dalam, dan beresonansi seperti tulisan pemikir manusia berpengalaman.
+- **Skor 2 (Robotik Terselubung)**: Basa-basi dikurangi, namun masih menggunakan kata transisi kaku di setiap awal kalimat (*"Selain itu", "Oleh karena itu"*) serta terjemahan kaku bahasa Inggris (*translationese*).
+- **Skor 3 (Cukup Alami)**: Alur kalimat wajar, tetapi masih ada sedikit kecenderungan menggunakan kesimpulan umum di akhir atau kata klise sesekali.
+- **Skor 4 (Otentik)**: Bahasa mengalir lancar, langsung ke substansi, bebas klise AI dan translationese, berhenti saat materi tuntas.
+- **Skor 5 (Masterful)**: Memiliki karakter suara yang khas, bernas, berwawasan dalam, bersih dari polusi simbol markdown pada teks formal, dan beresonansi seperti tulisan pemikir manusia berpengalaman.
 
 ### Dimensi 2: Context Awareness (Kepekaan Kontekstual)
 - **Skor 1**: Menggunakan template yang sama untuk semua situasi (respons ceria saat server down).

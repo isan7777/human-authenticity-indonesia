@@ -1,68 +1,57 @@
-# Authenticity: Hakikat Keaslian dan Integritas Bahasa
+# Authenticity: Hakikat Otentisitas dan Integritas Linguistik
 
-Dokumen ini mendefinisikan batas etis, filosofis, dan teknis mengenai apa itu "keaslian manusiawi" (human authenticity) dalam komunikasi berbasis kecerdasan buatan.
-
----
-
-## 1. Keaslian Sejati vs. Manipulasi Detektor (Anti-Bypass)
-
-Banyak pengembang dan pengguna salah mengartikan tulisan "alami" sebagai sekadar usaha mengakali alat pendeteksi AI (seperti GPTZero, Turnitin AI, atau CopyLeaks). Pendekatan manipulatif ini biasanya melahirkan teks cacat:
-- Menyisipkan salah ketik (typos) yang disengaja.
-- Mengganti kata umum dengan sinonim aneh dan jarang dipakai demi menaikkan angka perplexity secara semu.
-- Merusak tanda baca agar terlihat tidak rapi.
-
-**Sikap Human Authenticity Engine:**
-> **"Tujuan sistem ini bukan untuk memanipulasi skor detektor probabilitas, melainkan untuk mengembalikan martabat bahasa: kejernihan, ritme, kedalaman, dan resonansi manusiawi yang hilang akibat homogenisasi model bahasa."**
-
-Teks yang ditulis dengan prinsip HAE akan terasa otentik bagi pembaca manusia karena memiliki bobot isi dan alur baca yang menyenangkan, bukan karena tipu muslihat statistik.
+Dokumen ini mendefinisikan batas filosofis, etis, dan komputasional mengenai apa itu "keaslian manusiawi" (*human authenticity*) dalam teks yang dihasilkan oleh kecerdasan buatan.
 
 ---
 
-## 2. Dua Pilar Linguistik: Burstiness dan Perplexity Organik
+## 1. Ilusi Probabilitas Rata-Rata: Mengapa Teks AI Terasa Palsu
 
-Dalam analisis komputasional linguistik, teks manusia dibedakan oleh dua fenomena:
+Secara komputasional, model bahasa besar (LLM) dilatih untuk memprediksi token berikutnya berdasarkan bobot probabilitas tertinggi yang dipadukan dengan penghalusan preferensi (RLHF). Hasil sampingan dari mekanisme ini adalah **Efek Perataan Statistik (Statistical Flattening)**:
+- Model secara otomatis memilih kata-kata yang paling umum, paling aman, dan paling sering muncul di data latih (misalnya: *krusial, menyelami, lanskap, komprehensif*).
+- Ritme kalimat diratakan menjadi rata-rata 14–18 kata per kalimat.
+- Teks tampak sangat rapi dan gramatikal, namun kehilangan daya kejut intelektual, terasa steril, dan memiliki kilap sintetis (*synthetic sheen*).
+
+**Sikap Human Authenticity Engine**:
+> **"Keaslian manusiawi bukan manipulasi probabilitas untuk mengelabui alat pendeteksi AI (AI detector gaming), melainkan pemulihan sifat-sifat organik bahasa: dinamika ritme, ketajaman posisi pemikiran, presisi sensorik, dan ketiadaan ornamen kata yang hampa."**
+
+---
+
+## 2. Dua Sifat Alami Bahasa Manusia
+
+Dalam linguistik komputasional, teks manusia dibedakan secara tegas dari teks mesin melalui dua fenomena alami:
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│ 1. BURSTINESS (Variasi Ketukan Ritme)                       │
-│    - Kalimat pendek berdaya ledak tinggi.                   │
-│    - Kalimat medium untuk menopang konteks.                 │
-│    - Kalimat panjang untuk merangkum hubungan sebab-akibat. │
-│    Hasil: Teks bergelombang laksana aliran musik.           │
-├─────────────────────────────────────────────────────────────┤
-│ 2. PERPLEXITY ORGANIK (Pilihan Kata Berkarakter)            │
-│    - Menolak kata yang 'paling mudah ditebak' oleh mesin.   │
-│    - Memilih kata yang presisi secara makna kontekstual.    │
-│    - Menolak buzzword korporat yang hampa makna.           │
-│    Hasil: Teks padat gizi, segar, dan tidak klise.          │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│ 1. BURSTINESS ORGANIK (Variasi Ketukan Ritme)                          │
+│    - Teks manusia memiliki sebaran deviasi standar panjang kalimat     │
+│      yang tinggi (SD > 6 kata).                                        │
+│    - Manusia menggunakan satu kalimat pendek 4 kata untuk menyengat,   │
+│      disusul kalimat majemuk 28 kata untuk merajut sebab-akibat,       │
+│      lalu ditarik kembali oleh kalimat sedang.                         │
+├────────────────────────────────────────────────────────────────────────┤
+│ 2. PERPLEXITY TEPAT GUNA (Pilihan Leksikal Berkarakter)                │
+│    - Menolak kata yang 'paling mudah ditebak' oleh mesin demi kata     │
+│      yang memiliki presisi makna tertinggi dalam konteks lokal.        │
+│    - Bukan berarti memakai kata arkais yang aneh, melainkan memilih    │
+│      kata kerja aktif konkret yang langsung menggerakkan subjek.       │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Mengapa LLM Standar Menghasilkan Teks Hambar?
-Secara matematis, LLM dilatih untuk memprediksi token berikutnya berdasarkan probabilitas rata-rata tertinggi. Akibatnya, tanpa pengarah autentisitas, model akan selalu memilih kata-kata yang paling lumrah, aman, dan klise (misalnya: *"merupakan aspek krusial dalam era modern"*). Teks menjadi sangat simetris dan mudah ditebak—ciri utama kebosanan mekanis.
+---
+
+## 3. Kebersihan Format dan Keamanan Salin-Tempel (Formatting Hygiene)
+
+Keaslian bahasa juga harus memperhatikan pengalaman interaksi manusia (Human-Computer Interaction):
+- **Bebas Polusi Simbol Markdown**:
+  Dalam penulisan formal (skripsi, makalah, laporan kerja), hindari penumpukan tanda bintang miring seperti `(*gadget*)` atau `*sustained attention*`. 
+  Simbol-simbol ini merusak tata letak visual saat disalin ke editor dokumen seperti Microsoft Word atau Google Docs, dan merupakan penanda instan teks buatan mesin yang tidak rapi.
+- **Utamakan Padanan Bahasa yang Wajar**:
+  Gunakan istilah bahasa Indonesia yang sudah mengendap secara wajar di kalangan profesional dan akademisi, tanpa perlu menyisipkan padanan bahasa Inggris di dalam kurung pada setiap kalimat.
 
 ---
 
-## 3. Pembeda Kualitas: Ciri Tulisan yang Memiliki Jiwa
+## 4. Hubungan dengan Modul Lain
 
-Tulisan otentik manusia memiliki tanda-tanda berikut:
-1. **Titik Berat Tekstual**: Penulis tahu bagian mana yang perlu dipercepat dan bagian mana yang perlu dibahas secara mendalam. Tidak semua poin diberi jatah ruang yang sama persis.
-2. **Kesesuaian Emosional (Tonal Resonance)**: Nada bicara mencerminkan keseriusan subjek, bukan kegembiraan artifisial yang dipaksakan.
-3. **Ekonomi Kata**: Tidak menghamburkan kata sifat berbunga-bunga ketika kata kerja aktif dapat menyampaikan pesan dengan jauh lebih kuat.
-4. **Keberanian Berhenti**: Penulis manusia tahu kapan argumennya sudah selesai. Mereka tidak merasa wajib menambahkan paragraf rangkuman jika pesannya sudah sangat gamblang.
-
----
-
-## 4. Panduan Sikap dalam Berbagai Skenario
-
-- **Saat Menjelaskan Fakta Sejarah**: Sajikan intrik, konteks sosiologis, dan dinamika manusia di balik peristiwa, bukan sekadar linimasa tanggal yang dingin.
-- **Saat Menulis Esai Opini**: Ambil sudut pandang yang memiliki konsekuensi nyata. Hindari tulisan "diplomatis hampa" yang berusaha menyenangkan semua pihak hingga kehilangan taring pemikiran.
-- **Saat Membantu Masalah Sehari-hari**: Berikan saran praktis yang dapat langsung dieksekusi dengan peralatan di rumah, bukan teori abstrak.
-
----
-
-## 5. Hubungan dengan Modul Lain
-
-- Untuk melihat bagaimana variasi ritme dibangun pada tingkat frasa, baca [Sentence Variation](../writing/sentence_variation.md).
-- Untuk mempelajari pemilihan leksikal yang presisi, baca [Vocabulary Selection](../writing/vocabulary_selection.md).
-- Untuk menguji kualitas teks yang dihasilkan, gunakan [Quality Checklist](../evaluation/quality_checklist.md).
+- Untuk teknik penerapan variasi ritme kalimat, baca [Sentence Variation](../writing/sentence_variation.md).
+- Untuk pemilihan kosakata bebas terjemahan kaku, baca [Vocabulary Selection](../writing/vocabulary_selection.md).
+- Untuk prosedur pengujian otentisitas, gunakan [Naturalness Test](../evaluation/naturalness_test.md).

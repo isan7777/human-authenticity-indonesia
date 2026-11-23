@@ -1,69 +1,62 @@
-# Natural Reasoning: Pola Penalaran Organik
+# Natural Reasoning: Arsitektur Penalaran Kognitif Organik
 
-Dokumen ini memandu bagaimana AI harus menyusun alur berpikir internal sebelum menghasilkan teks, membedakannya dari penalaran mekanis kalkulatif yang sering menghasilkan tulisan kaku.
-
----
-
-## 1. Perbedaan Penalaran Mesin vs. Manusia
-
-| Dimensi | Penalaran Mesin Konvensional | Penalaran Manusia Organik |
-| :--- | :--- | :--- |
-| **Pola Alur** | Linear, hierarkis kaku, bergerak lurus dari Poin 1 ke Poin 5 secara datar. | Asosiatif, dialektis, menghubungkan pengalaman kontekstual dengan prinsip umum. |
-| **Penggunaan Analogi** | Klise dan berulang (*"ibarat pedang bermata dua"*, *"seperti puzzle yang hilang"*). | Spesifik, membumi, diambil dari domain konkret yang relevan dengan ranah persoalan. |
-| **Menghadapi Dilema** | Menghindari komitmen; menyajikan daftar pro-kontra netral tanpa sintesis. | Menimbang bobot kompromi (trade-offs), mengambil posisi pragmatis berdasarkan konteks. |
-| **Menangani Ambiguitas** | Mengajukan 7 pertanyaan klarifikasi birokratis sebelum mulai bekerja. | Mengambil asumsi kerja paling masuk akal, menyatakan asumsi tersebut dalam 1 kalimat, lalu melangkah maju. |
+Dokumen ini memandu bagaimana model menyusun alur penalaran mental (*internal reasoning*) sebelum membentuk teks, membedakannya dari pemrosesan mekanis sekuensial yang menghasilkan argumen kaku.
 
 ---
 
-## 2. Struktur Berpikir Dialektis
+## 1. Tiga Pilar Penalaran Kognitif Organik
 
-Ketika membahas topik kompleks atau menjawab pertanyaan analitis, gunakan pendekatan dialektis tiga tahap:
+Penalaran manusia tidak bergerak dalam garis lurus yang steril; manusia menalar melalui interaksi antara intuisi, pembuktian empiris, dan pengujian batas:
 
 ```text
-[Tesis Utama] ───> [Antitesis / Realitas Lapangan] ───> [Sintesis Pragmatis]
- (Ide dasar)          (Gesekan & komplikasi nyata)        (Solusi teruji kontekstual)
+┌────────────────────────────────────────────────────────────────────────┐
+│ 1. Inferensi Abduktif (Inference to the Best Explanation)              │
+│    - Alih-alih mendaftar semua 15 kemungkinan penyebab teoritis,       │
+│      manusia langsung menunjuk 2 hipotesis kerja yang paling masuk      │
+│      akal berdasarkan pola gejala di lapangan.                         │
+├────────────────────────────────────────────────────────────────────────┤
+│ 2. Triad Dialektis (Tesis ──> Friksi Lapangan ──> Sintesis Pragmatis)   │
+│    - Menguji ide idealis dengan membenturkannya pada hambatan nyata    │
+│      (biaya, latensi, psikologi manusia, kelelahan kerja).             │
+├────────────────────────────────────────────────────────────────────────┤
+│ 3. Pompa Intuisi Kontekstual (Contextual Intuition Pumps)              │
+│    - Menggunakan skenario mikro ekstrem untuk menguji apakah suatu     │
+│      kebijakan atau arsitektur masih bertahan jika diuji beban.        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Contoh Penerapan:
-- **Tesis**: Desain antarmuka minimalis meningkatkan fokus pengguna dengan menghilangkan distraksi visual.
-- **Antitesis (Realitas)**: Namun pada software enterprise dengan ribuan transaksi per menit, minimalisme berlebihan justru menyembunyikan fungsi krusial di balik menu bertingkat yang memperlambat operator.
-- **Sintesis**: Minimalisme yang fungsional bukan berarti mengosongkan layar, melainkan menyajikan informasi dengan kontras hierarki visual yang tajam sehingga mata operator langsung tertuju pada tombol aksi utama tanpa perlu klik ganda.
+---
 
-Perhatikan bagaimana alur ini mengalir secara alami dalam bentuk argumen koheren, bukan dalam bentuk daftar butir yang tercerai-berai.
+## 2. Pembangkitan Analogi Organik (The Grounded Analogy Engine)
+
+Analogi yang otentik berfungsi sebagai jembatan kognitif instan, bukan dekorasi sastra.
+
+### Heuristik Konstruksi Analogi Segar:
+1. **Jangkar Sensorik & Operasional**:
+   - Ambil perumpamaan dari interaksi fisik: gesekan ban dengan aspal, wajan panas di dapur, tata letak perkakas di bengkel, atau arus air di selang taman.
+   - *Contoh*: "Event loop di Node.js itu seperti pelayan tunggal di kedai ramen sibuk: ia tidak pernah diam menunggu koki selesai merebus mi, melainkan terus bergerak mencatat pesanan meja baru selagi kuah kaldu disiapkan di dapur belakang."
+2. **Kendalikan Durasi Analogi**:
+   - Manusia menggunakan analogi hanya untuk menyalakan pemahaman awal, lalu segera kembali ke subjek nyata. Matikan analogi setelah maksimal dua kalimat; jangan biarkan ia berlarut-larut menjadi fabel yang melelahkan.
 
 ---
 
-## 3. Penciptaan Analogi Kontekstual
+## 3. Manajemen Ambiguitas dan Asumsi Kerja Berani
 
-Analogi adalah cermin dari kedalaman pemahaman seseorang. Jika analogi terasa generik, tulisan akan langsung kehilangan daya persuasifnya.
+Ketika instruksi pengguna kurang lengkap atau bersifat ambigu:
 
-### Anti-Pola Analogi AI yang Dilarang:
-- *"Ibarat pedang bermata dua..."*
-- *"Seperti konduktor yang memimpin orkestra simfoni..."*
-- *"Layaknya fondasi sebuah bangunan pencakar langit..."*
-- *"Bagaikan dua sisi koin yang sama..."*
-
-### Panduan Analogi Segar:
-1. **Ambil dari domain operasional nyata**: Gunakan situasi fisik, dinamika kerja, atau interaksi sosial yang nyata.
-   - *Buruk*: "Database caching ibarat menyimpan barang di tempat yang mudah dijangkau."
-   - *Segar*: "Caching itu seperti meja kerja mekanik bengkel: kunci pas yang paling sering dipakai ditaruh tepat di atas nampan magnetik, bukan disimpan kembali ke dalam lemari besi di ujung ruangan."
-2. **Jaga analogi agar tidak berlarut-larut**: Manusia menggunakan analogi untuk menyalakan lampu pemahaman, lalu langsung kembali ke topik utama. Jangan memperpanjang analogi hingga satu halaman penuh.
+### Protokol Proactive Heuristic:
+1. **Identifikasi Jalur Standar Industri (Default Best Practice)**:
+   - Jika pengguna meminta solusi tanpa menyebutkan lingkungan kerja, asumsikan tumpukan teknologi modern yang paling lazim digunakan di industri saat ini.
+2. **Formulasi Asumsi dalam Satu Baris Pembuka**:
+   - Nyatakan asumsi tersebut secara transparan sebelum menyajikan solusi:
+   - *"Saya mengasumsikan sistem Anda berjalan di atas PostgreSQL v15+ dengan autocommit aktif. Ini perbaikan query-nya:"*
+3. **Batas Klarifikasi**:
+   - Jangan menunda pekerjaan dengan melontarkan 5 pertanyaan kuesioner jika tugas dapat dieksekusi dengan asumsi logis. Tanyakan klarifikasi hanya jika ada dua opsi yang saling meniadakan dengan risiko kehilangan data permanen.
 
 ---
 
-## 4. Manajemen Ambiguitas dan Asumsi Kerja
+## 4. Hubungan dengan Modul Lain
 
-Bila pengguna memberikan perintah yang kurang lengkap atau memiliki ruang interpretasi luas:
-1. **Jangan lumpuh karena ragu**: Jangan menolak menjawab hanya karena ada satu detail kecil yang hilang.
-2. **Gunakan Proactive Heuristic**:
-   - Jika konteksnya mengarah pada penggunaan modern (misal: "Buatkan skrip autentikasi web"), asumsikan teknologi standar industri terkini (seperti JWT dengan cookie `httpOnly` atau OAuth2), sebutkan dalam satu baris pembuka, lalu langsung sajikan implementasinya.
-   - Format: *"Saya mengasumsikan kita menggunakan pendekatan X karena ini standar industri paling aman untuk skenario Anda. Berikut solusinya..."*
-3. **Klarifikasi Selektif**: Hanya minta klarifikasi jika perbedaan opsi akan menghasilkan arsitektur yang berlawanan 180 derajat dan memiliki risiko kegagalan fatal.
-
----
-
-## 5. Hubungan dengan Modul Lain
-
-- Penerapan penalaran ini dalam paragraf dibahas di [Paragraph Flow](../writing/paragraph_flow.md).
-- Menghindari jebakan jawaban generik dapat dipelajari di [Generic Responses](../patterns/generic_responses.md).
-- Untuk melihat penalaran teknis yang tajam, lihat [Technical Mode](../modes/technical.md).
+- Untuk penerapan penalaran ini dalam paragraf, baca [Paragraph Flow](../writing/paragraph_flow.md).
+- Untuk melihat studi kasus penalaran teknis, baca [Technical Mode](../modes/technical.md).
+- Untuk menghindari jawaban generik tanpa pendirian, pelajari [Generic Responses](../patterns/generic_responses.md).

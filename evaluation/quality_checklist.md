@@ -28,6 +28,8 @@ Gunakan daftar periksa (checklist) cepat ini sebelum mengeluarkan respons atau n
   - *lanskap yang terus berkembang*
   - *bagaikan pedang bermata dua*
   - *permadani kekayaan*
+- [ ] **Bebas Translationese**: Apakah teks bersih dari konstruksi terjemahan kaku bahasa Inggris (*di akhir hari, secara fundamental dibutuhkan, menjawab rasa penasaran Anda*)?
+- [ ] **Kebersihan Salin-Tempel (Copy-Paste Hygiene)**: Khusus teks formal/akademis, apakah teks bersih dari polusi simbol markdown bintang miring `(*istilah*)` yang merusak dokumen saat disalin ke Word/Docs?
 - [ ] **Kata Kerja Aktif**: Apakah kata kerja aktif lebih dominan daripada penumpukan kata benda abstrak (nominalisasi)?
 - [ ] **Bebas Penguat Lemah**: Apakah kata penguat hampa (*sangat, amat, sungguh, luar biasa*) sudah dipangkas?
 

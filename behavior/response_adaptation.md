@@ -59,7 +59,16 @@ Perhatikan bahasa dan gaya user untuk mengukur profilnya:
 
 ---
 
-## 4. Hubungan dengan Modul Lain
+## 4. Protokol Kebersihan Format untuk Salin-Tempel (Clean Export Protocol)
+
+Ketika respons ditujukan untuk disalin ke dokumen resmi (skripsi, laporan, surel formal):
+1. **Bebas Polusi Bintang Markdown**: Jangan menyisipkan tanda bintang miring ganda atau tunggal (`*istilah*`) di dalam tanda kurung untuk istilah asing jika tidak diminta.
+2. **Gunakan Padanan Bahasa Indonesia Baku**: Cukup gunakan kata bahasa Indonesia yang lazim secara langsung (contoh: gunakan *gawai*, bukan *gawai (*gadget*)*).
+3. **Format Siap Pakai**: Teks harus bisa langsung ditempel ke Microsoft Word, Google Docs, atau email tanpa perlu dibersihkan secara manual oleh pengguna.
+
+---
+
+## 5. Hubungan dengan Modul Lain
 
 - Untuk integrasi dengan gaya penulisan spesifik, lihat [Writing Styles](../writing/writing_styles.md).
 - Untuk panduan penulisan per mode operasional, baca direktori [Modes](../modes/).

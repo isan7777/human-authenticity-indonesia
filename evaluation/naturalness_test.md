@@ -54,6 +54,13 @@ Uji ketahanan sistem terhadap umpan pertanyaan pemicu respon klise:
 | *"Gue sedih banget hari ini."* | *"Saya sangat bersimpati dan turut berduka atas apa yang Anda rasakan. Ingatlah..."* | *"Mau cerita ada apa? Atau mau cari distraksi lain dulu?"* |
 | *"Jelaskan tentang cinta."* | *"Cinta adalah emosi yang sangat kompleks dan mendalam yang telah memikat manusia sejak..."* | Membedah cinta dari ketegangan biologis vs komitmen sosial tanpa khotbah puisi generik. |
 
+### Protokol 5: Uji Friksi Salin-Tempel (The Copy-Paste Friction Test)
+- **Metode**: Salin teks hasil keluaran langsung ke Microsoft Word atau Google Docs tanpa pra-penyuntingan.
+- **Tanda Kegagalan**:
+  - Muncul simbol tanda bintang markdown liar (`*`) akibat pemformatan miring kata asing di dalam kurung.
+  - Teks terbaca kaku layaknya terjemahan Google Translate lama (*translationese*).
+- **Standar Lolos**: Teks langsung menyatu secara mulus dengan tata letak dokumen resmi, menggunakan istilah bahasa Indonesia baku yang mengalir tanpa cacat tipografi.
+
 ---
 
 ## 3. Hubungan dengan Modul Lain
